@@ -1,0 +1,288 @@
+
+DRE CUSCO                                                       FD10B101
+*FD UGE ESPINAR
+RUC - 20564239233                                    1024874840-313001-1
+JUNIO - 2017  CES/JUD                                         (1) Activo
+
+Apellidos                    : CCAMERCOA HUAHUISA
+Nombres                      : DAMIANA
+Fecha de Nacimiento          : 27/09/1953
+Documento de Identidad       : (DNI o L.E.) 24876011
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221377813
+Leyenda Permanente           : OFIC.615 Y638 27%
+Demandado                    : HUILLCAHANCCO LAUCATA JUAN BAUTISTA
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./Grupo Ocup./Horas   : 5/00- /30
+Tiempo de Servicio (AA-MM-DD): 29-00-24
+
+
+
+
+========================================================================
++djudicia      304.53
+
+
+
+
+
+
+
+
+
+
+
+
+
+========================================================================
+T-REMUN        304.53 T-DSCTO          0.00  T-LIQUI       304.53
+MImponible       0.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación : www.minedu.gob.pe.
+
+
+
+
+                                                                00000001
+.
+
+DRE CUSCO                                                       FD10B101
+*FD UGE ESPINAR
+RUC - 20564239233                                    1024867390-313001-1
+JUNIO - 2017  CES/JUD                                         (1) Activo
+
+Apellidos                    : CHOQQUE CARLOS
+Nombres                      : FELICITAS
+Fecha de Nacimiento          : 15/07/1962
+Documento de Identidad       : (DNI o L.E.) 24884160
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221377376
+Leyenda Permanente           : CUYO CARBAJAL
+Demandado                    : CUYO CARBAJAL JESUS GUIME
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./Grupo Ocup./Horas   : 3/00- /30
+Tiempo de Servicio (AA-MM-DD): 30-00-00
+
+
+
+
+========================================================================
++djudicia       82.86
+
+
+
+
+
+
+
+
+
+
+
+
+
+========================================================================
+T-REMUN         82.86 T-DSCTO          0.00  T-LIQUI        82.86
+MImponible       0.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación : www.minedu.gob.pe.
+
+
+
+
+                                                                00000002
+.
+
+DRE CUSCO                                                       FD10B101
+*FD UGE ESPINAR
+RUC - 20564239233                                    1029295020-313003-1
+JUNIO - 2017  CES/JUD                                         (1) Activo
+
+Apellidos                    : CONDORI CHULLO DE HUARACHA
+Nombres                      : FAUSTINA
+Fecha de Nacimiento          : 25/03/1950
+Documento de Identidad       : (DNI o L.E.) 24866837
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221375128
+Leyenda Permanente           : OFIC. N? 10%
+Demandado                    : HUARACHA VALDEZ TOMAS
+Cargo                        : PROF. POR HORA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./Grupo Ocup./Horas   : 0/00- /24
+Tiempo de Servicio (AA-MM-DD): 31-10-14
+
+
+
+
+========================================================================
++djudicia      100.08
+
+
+
+
+
+
+
+
+
+
+
+
+
+========================================================================
+T-REMUN        100.08 T-DSCTO          0.00  T-LIQUI       100.08
+MImponible       0.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación : www.minedu.gob.pe.
+
+
+
+
+                                                                00000003
+.
+
+DRE CUSCO                                                       FD10B101
+*FD UGE ESPINAR
+RUC - 20564239233                                    1024877015-313001-1
+JUNIO - 2017  CES/JUD                                         (1) Activo
+
+Apellidos                    : CRUZ CRUZ
+Nombres                      : JULIA
+Fecha de Nacimiento          : 28/05/1963
+Documento de Identidad       : (DNI o L.E.) 24875796
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221377384
+Leyenda Permanente           : OFIC. 756-05 15%
+Demandado                    : TUNY PAREJA MATEO MARIO
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./Grupo Ocup./Horas   : 5/00- /30
+Tiempo de Servicio (AA-MM-DD): 26-08-00
+
+
+
+
+========================================================================
++djudicia      159.55
+
+
+
+
+
+
+
+
+
+
+
+
+
+========================================================================
+T-REMUN        159.55 T-DSCTO          0.00  T-LIQUI       159.55
+MImponible       0.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación : www.minedu.gob.pe.
+
+
+
+
+                                                                00000004
+.
+
+DRE CUSCO                                                       FD10B101
+*FD UGE ESPINAR
+RUC - 20564239233                                    1024877015-313001-2
+JUNIO - 2017  CES/JUD                                         (1) Activo
+
+Apellidos                    : MENDOZA CHOQUENAIRA
+Nombres                      : YOLANDA
+Fecha de Nacimiento          : 14/07/1946
+Documento de Identidad       : (DNI o L.E.) 24876590
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221003557
+Leyenda Permanente           : TUNY PAREJA M
+Demandado                    : TUNY PAREJA MATEO MARIO
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./Grupo Ocup./Horas   : 5/00- /30
+Tiempo de Servicio (AA-MM-DD): 26-08-00
+
+
+
+
+========================================================================
++djudicia      425.47
+
+
+
+
+
+
+
+
+
+
+
+
+
+========================================================================
+T-REMUN        425.47 T-DSCTO          0.00  T-LIQUI       425.47
+MImponible       0.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación : www.minedu.gob.pe.
+
+
+
+
+                                                                00000005
+.
+
+DRE CUSCO                                                       FD10B101
+*FD UGE ESPINAR
+RUC - 20564239233                                    1024867390-313001-2
+JUNIO - 2017  CES/JUD                                         (1) Activo
+
+Apellidos                    : PUCHO LLAVE
+Nombres                      : HILARIA
+Fecha de Nacimiento          : 21/10/1949
+Documento de Identidad       : (DNI o L.E.) 24865569
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221377392
+Leyenda Permanente           : CUYO CARBAJAL
+Demandado                    : CUYO CARBAJAL JESUS GUIME
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./Grupo Ocup./Horas   : 3/00- /30
+Tiempo de Servicio (AA-MM-DD): 30-00-00
+
+
+
+
+========================================================================
++djudicia      469.53
+
+
+
+
+
+
+
+
+
+
+
+
+
+========================================================================
+T-REMUN        469.53 T-DSCTO          0.00  T-LIQUI       469.53
+MImponible       0.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación : www.minedu.gob.pe.
+
+
+
+
+                                                                00000006
+.

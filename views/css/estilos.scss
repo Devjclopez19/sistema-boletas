@@ -1,0 +1,627 @@
+/************************************/
+/*Login*/
+.login-logo {
+    //background: #fff url(../images/bg2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1rem 1.25rem 1rem;
+    &__title {
+        //background: gold;
+        & h2 {
+            color: #444;
+            text-align: center;
+            font-weight: 600;
+            font-size: 1.5rem;
+            //background: #00BBE8;
+            @media only screen and (min-width: 992px){
+                font-size: 1.8rem;
+            }
+        }
+    }
+    &__img {
+        //background: green;
+        width: 50%;
+        margin: auto;
+    }
+    &__ugel {
+        width: 100%;
+        background: rgba(#fff,.4);
+        border: 1px solid #ccc;
+        padding: 0;
+        & .img-mobile {
+            width: 100%;
+            height: 80px;
+            background: #566F8D;
+            margin: auto;
+            display: flex;
+        }
+        & h3 {
+            font-size: 1.1em;
+            font-weight: 500;
+            @media only screen and (min-width: 992px){
+                font-size: 1.7em;
+            }
+        }
+        @media only screen and (min-width: 992px){
+            padding: .5rem;
+            border: 3px solid #444;
+        }
+    }
+    & p {
+        font-size: .9em;
+        color: #666;
+        margin-bottom: 0;
+        text-align: right;
+        margin-top: 10px;
+    }
+    @media only screen and (min-width: 992px){
+        padding: 1.25rem 1.25rem 1rem;
+    } 
+}
+.j-pro .card-block {
+    padding: 1rem 1.25rem;
+    @media only screen and (min-width: 992px){
+        padding: 1.25rem;
+    } 
+}
+.j-pro .card-block .j-label {
+    font-size: 15px;
+}
+.j-pro .titulo-sistema {
+    margin-bottom: 2px;
+    & h3{
+        font-size: 1.4rem;
+        font-weight: 600;
+        @media only screen and (min-width: 992px){
+            font-size: 1.75rem;
+        }
+    }
+    @media only screen and (min-width: 992px){
+        margin-bottom: 15px;
+    } 
+}
+.j-pro .pass {
+    margin-top: 20px;
+    @media only screen and (min-width: 992px){
+        margin-top: 20px;
+    } 
+}
+.j-pro .div-btn-login {
+    margin-top: 10px;
+    @media only screen and (min-width: 992px){
+        margin-top: 30px;
+    } 
+}
+.area-logo {
+    background: #fff url(../images/bg2.png);
+}
+.login-block .auth-box {
+    margin: 0;
+}
+.login-block .card {
+    border-radius: 0;
+}
+.login-block .input-group span {
+    cursor: default;
+}
+.login-block .input-group {
+    margin-bottom: 10px;
+}
+.login-block .j-icon-left {
+    color: #e26262;
+    font-weight: bold;
+    opacity: 1;
+}
+.login-block .j-icon-right {
+    border: none;
+    opacity: .8;
+    font-size: 1.5em;
+}
+.login-block .background-danger {
+    line-height: 18px;
+}
+.login-block .background-danger i {
+    color: #fff;
+}
+.registro-block {
+    border-top: 3px solid #ccc;
+    background: #fff;
+    padding: .5rem 1rem 0;
+    font-size: 15px;
+    & p {
+        font-size: inherit;
+        color: #666;
+        margin-bottom: .5em;
+        & a {
+            font-size: inherit;
+        }
+        
+    }
+    & .descargar a{
+        font-size: .9rem;
+        color: #e26262;
+        display: block;
+    }
+    @media only screen and (min-width: 992px){
+        padding: 1.25rem 1.25rem 0;
+        font-size: .9rem;
+    }
+}
+.j-pro {
+    border: none;
+    & select {
+        -webkit-appearance: menulist;
+        color: #444;
+    }
+    & .j-unit {
+        margin-bottom: 10px;
+    }
+    & .card-block {
+        padding-bottom: 0;
+    }
+}
+.fade-enter-active, .fade-leave-active {
+    transition: opacity .5s;
+}
+.fade-enter, .fade-leave-to {
+    opacity: 0;
+}
+.err-message{
+    padding: .5rem;
+    font-size: .85rem;
+    color: #b71c1c;
+}
+  
+.u-error {
+    border: 1px solid #b71c1c !important;
+}
+/*ESTILOS DEL NAVBAR*/
+.pcoded-wrapper .navbar-left {
+    background: #fff url(../images/bg-image.png);
+}
+.pcoded .pcoded-navbar .pcoded-item>li>a  {
+    color: #616161;
+    font-weight: 600;
+    font-size: 16px;
+}
+.pcoded[nav-type="st6"] .pcoded-item.pcoded-left-item>li>a>.pcoded-micon i {
+    color: #e26262;
+    font-size: 22px;
+}
+.pcoded .pcoded-navbar .pcoded-item>li:hover .pcoded-micon i {
+    color: #fff !important;
+}
+.info-ugel {
+    width: 30%;
+    //background: #b71c1c;
+    & .ugel-img {
+        width: 80px;
+    }
+    @media only screen and (max-width: 1061px){
+        width: 25%;
+    }
+}
+.info-ugel p{
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #616161;
+    width: 60%;
+    margin: 0;
+    @media only screen and (max-width: 1061px){
+        font-size: 1rem;
+    }
+}
+.pcoded .navbar-logo {
+    height: 100px !important;
+    & .img-logo {
+        width: 85%;
+    }
+    & a {
+        font-size: 24px !important;
+    }
+    @media only screen and (min-width: 992px){
+        height: 120px !important;
+    }
+}
+@media only screen and (max-width: 992px){
+    .pcoded-main-container {
+        margin-top: 100px !important;
+    }
+}
+.pcoded .info-user {
+    & .user-profile {
+        font-size: 14px;
+        color: #0085C0;
+        font-weight: 600;
+        @media only screen and (min-width: 1061px){
+            font-size: 1.1rem;
+        }
+    }
+    & .logout {
+        color: #e26262 !important;
+        font-weight: 600;
+        font-size: 14px !important;        
+        padding: 0!important;
+        @media only screen and (min-width: 992px){
+            font-size: 1.1rem !important;
+        }
+    }
+    & .datos {
+        //background: #e26262;
+        margin-bottom: 0;
+        margin-top: 5px;
+        font-size: inherit;
+        & span:first-child {
+            color: #222;
+        }
+    }
+    & li {
+        line-height: 1.5!important;
+    }
+}
+.pcoded[theme-layout="vertical"] .pcoded-navbar .pcoded-item>li>a .pcoded-mtext {
+    top: 13px;
+}
+.pcoded .dev {
+    color: #b71c1c;
+    font-size: 1.2em;
+    padding: 1em;
+}
+.pcoded .pcoded-header .navbar-logo[logo-theme="theme5"] {
+    background-color: #00BBE8;
+}
+/*contenido dinamico*/
+.inicio {
+    //background: #0085C0;
+    & h2 {
+        text-align: center;
+        font-size: 1.2rem;
+        @media only screen and (min-width: 992px){
+            font-size: 1.8rem;
+        }
+    }
+    & p {
+        font-size: 1rem;
+        @media only screen and (min-width: 992px){
+            font-size: 1.3rem;
+        }
+    }
+    & .navegacion {
+        //background: #00BBE8;//FDFDFD 69E781 FF4963 FFD700
+        padding: .5em  1em;
+        border-radius: 10px;        
+        transition: all .3s;
+        & a {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-between;
+            text-align: center;
+            color: #fff;
+            font-size: 1.5em;
+            font-weight: 600;
+            & span:first-child {
+                font-size: 1.3em;
+                line-height: 1em;
+                border: 2px solid #fff;
+                width: 40px;
+                height: 40px;
+                padding: 5px;
+                border-radius: 50%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                transform: rotate(0deg);
+                transition: all 1s;
+                @media only screen and (min-width: 992px){
+                    font-size: 2.5rem;
+                    width: 70px;
+                    height: 70px;
+                }
+            }
+            @media only screen and (min-width: 992px){                
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                font-size: 1.3em;
+            }
+        }
+        &:hover a span:first-child{
+            transform: rotateY(360deg);
+        }
+        @media only screen and (min-width: 992px){
+            padding: 1em;
+        }
+    }
+    & .nav-1 {
+        background: #69E781 ;
+        &:hover {
+            background: darken(#69E781,20);
+        }
+    }
+    & .nav-2 {
+        background: #00BBE8;
+        &:hover {
+            background: darken(#00BBE8,20);
+        }
+    }
+    & .nav-3 {
+        background: #FFD700;
+        &:hover {
+            background: darken(#FFD700,2);
+        }
+    }
+    & .nav-4 {
+        background: #FF4963;
+        &:hover {
+            background: darken(#FF4963,20);
+        }
+    }
+    & .nav-5 {
+        background: #7C4DFF;
+        &:hover {
+            background: darken(#7C4DFF,10);
+        }
+    }
+    & .nav-6 {
+        background: #4DD0E1;
+        &:hover {
+            background: darken(#4DD0E1,10);
+        }
+    }
+    & .nav-7 {
+        background: #FFB300;
+        &:hover {
+            background: darken(#FFB300,5);
+        }
+    }
+}
+.main-page {
+    & .page-wrapper {
+        padding: 1rem;
+        background: #fff;
+    }
+    & .page-title {
+        width: 100%;
+        background: #566F8D;
+        color: #fff;
+        margin: 0 auto;
+        text-align: center;
+        padding: 5px;
+        & h2 {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin: 0;
+            @media only screen and (min-width: 992px){
+                font-size: 1.4rem;
+            }
+        }
+        @media only screen and (min-width: 992px){
+            width: 100%;
+        }
+    }
+}
+/*Page cuenta*/
+.cuenta {
+    //background: #00BBE8;
+    margin-top: 1rem;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 1rem;
+    border: 3px solid #666;
+    & p {
+        font-size: 1.3em;
+        text-align: center;
+        font-weight: 600;
+    }
+
+    @media only screen and (min-width: 992px){
+        width: 80%;
+    }
+}
+/*Page usuarios*/
+.usuarios {
+    //background: #69E781;
+    margin-top: 5px;
+    & .btn-agregar {
+        margin: auto;
+        margin-bottom: 10px;
+    }
+    & .modal-usuario {
+        //background: #566F8D;
+        & h5 {
+            text-align: center;
+            margin: auto;
+            background: #566F8D;
+            color: #fff;
+            padding: 2px 8px;
+            font-size: 1.1rem;
+            width: 100%;
+            @media only screen and (min-width: 992px){
+                padding: 2px 3em;
+                font-size: 1.3rem;
+            }
+        }
+        & .close {
+            //background: #0085C0;
+            padding: 3px;
+            margin-top: 0;
+            font-size: 1.7em;
+            color: #FF4963;
+        }
+    }
+    & .j-pro .j-icon-right {
+        color: #e26262;
+        opacity: .9;
+        //color: #fff;
+        cursor: pointer;
+        & i {
+            font-weight: 700;
+            font-size: 1.5rem;
+        }
+    }
+    & .j-pro .j-icon-left {
+        color: #e26262;
+        font-weight: bold;
+        opacity: .9;
+    }
+    & .form-respond {
+        background: #00BBE8;
+    }
+    & .lista-usuarios {
+        & .btn-table{
+            background: transparent;
+            border: 1px solid #0085C0;
+            color: #0085C0;
+            padding: 5px .5rem;
+            border-radius: 3px;
+            font-weight: 700;
+            margin-right: 5px;
+            cursor: pointer;
+            &:hover {
+                background: #0085C0;
+                color: #fff;
+            }
+        }
+        & .btn-del {
+            border-color:#b71c1c;
+            background: transparent;
+            color: #b71c1c;
+            &:hover {
+                background: #FF4963;
+                color: #fff;
+            }
+        }
+        & .btn-active {
+            border-color:transparent;
+            background: #69E781;
+            color: #fff;
+            cursor: not-allowed;
+            &:hover {
+                background: #69E781;
+            }
+        }
+        & .btn-wait {
+            border-color:#FFB300;
+            color: #FFB300;
+            &:hover {
+                background: #FFB300;
+                color: #fff;
+            }
+        }
+    }
+}
+/*cargar-archivos*/
+.cargar-boletas {
+    & .title-instrucciones {
+        color: #FF4963;
+        font-weight: 700;
+        font-size: 1rem;
+        margin-bottom: 5px;
+    }
+    & .list-instrucciones {
+        background: #FFEB3B;
+        margin-top: 0;
+    }
+    & .select-b {
+        display: flex;
+        align-items: center;
+        & label {
+            margin-right: 5px;
+            font-size: 1rem;
+            font-weight: 600;
+            margin-bottom: 0;
+        }
+        & select {
+            font-size: 1rem;
+        }
+    }
+    & .acciones {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    & .link-boleta {
+        color:#FF5722;
+        font-size: 24px;
+        text-align: center;
+        margin: 0 auto;
+        display: block;
+        transform-origin: center;
+        transform: scale(1.2);
+        transition: all .3s;
+        &:hover {
+            transform: scale(2);
+        }
+    }
+    & #tabla-boletas td {
+        padding-top: 2px;
+        padding-bottom: 2px;
+    }
+    & .btn-boleta {
+        color:#FF5722;
+        font-size: 24px;
+        text-align: center;
+        margin: 0 auto;
+        padding: 0;
+        border:none;
+        transform-origin: center;
+        transform: scale(1.2);
+        transition: all .3s;
+        background: transparent;
+        display: block;
+        cursor: pointer;
+        &:hover {
+            transform: scale(1.5);
+        }
+        &:focus {
+            outline-color: transparent;
+        }
+        &:active {
+            outline-color: transparent;
+        }
+    }
+    & input[type="text"].form-control{
+        font-size: 1rem;
+        font-weight: 600;
+    }
+    & .content-boleta {
+        //background: #4DD0E1;
+        padding: 0;
+        margin-top: 2rem;
+        @media only screen and (min-width: 992px){
+            padding: 1rem;
+        }
+    }
+    & .boleta {
+        //border: 1px solid #ccc;
+        width: 100%;
+        margin: auto;
+        box-shadow: 0px 0px 3px #999;
+        padding: .5rem;
+        margin-bottom: 1rem;
+        background: #fdfdfd url(../images/fondo_boleta.png);
+        background-size: cover;
+        @media only screen and (min-width: 992px){
+            padding: 1rem;
+            width: 80%;
+        }
+    }
+}
+.send-mail {
+    display: flex;
+    align-items: center;
+    &__img {
+        width: 50px;
+        height: 50px;
+        flex-shrink: 0;
+        //background: #0085C0;
+    }
+    &__message {
+        color: #e26262;
+        & p {
+            margin: 0;
+            font-size: 1.1rem;
+        }
+    }
+}

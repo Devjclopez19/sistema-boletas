@@ -1,0 +1,3984 @@
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024697666-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : AIMACHOQQUE PUMACARI
+Nombres                      : GREGORIO
+Fecha de Nacimiento          : 12/03/1939
+Documento de Identidad       : (Lib.Electoral o D.N.) 24697666
+Cargo                        : DIRECTOR
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 2/0-0/40
+Tiempo de Servicio (AA-MM-DD): 30-05-03 ESSALUD : 00000000
+Fecha de Registro            : Cese :29/02/2012 Termino:29/02/2012
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221352322
+Leyenda Permanente           : RD 279-16 PENSION DEFINITIVA AL 100
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         45.00 +igv            15.53
++personal        0.02 +difpensi       18.39
++ael25671       54.00 +du073         103.54
++aeds081        63.00 +du011         120.10
++tph            27.27 +ds004-13       25.00
++familiar        3.00 +ds002-2015     30.00
++du080         119.70 +ds005-2016     38.00
++refmov          4.50 +ds020-2017     43.00
++du90           89.25 +ds011-2018     29.00
++ds19           99.00 +ds009-2019     30.00
++ds21           20.79 +ds006-2020     30.00
++bondirct        3.68 -ipss           40.96
++bonesp         21.46
++reunifica      26.77
+========================================================================
+T-REMUN      1,060.00 T-DSCTO         40.96  T-LIQUI     1,019.04
+MImponible   1,024.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000001
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024865442-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : ALVAREZ VALENCIA
+Nombres                      : MARIA CLEOFE
+Fecha de Nacimiento          : 09/04/1942
+Documento de Identidad       : (Lib.Electoral o D.N.) 24865442
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: A/0-0/40
+Tiempo de Servicio (AA-MM-DD): 26-06-17 ESSALUD : 4204090AAVEM004
+Fecha de Registro            : Cese :01/07/1964 Termino:01/07/1964
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221366528
+Leyenda Permanente           : DJS 1-4456 ESPINAR  2006,adel.du.37
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       17.33  +ds011-2018     29.00
++personal        0.03 +du073          85.25  +ds009-2019     30.00
++ael25671       60.00 +du011          98.89  +ds006-2020     30.00
++aeds081        60.00 +ds017          50.00  -ipss           44.44
++tph            22.50 +ds120          15.00
++familiar        3.00 +ds014          15.00
++du080         116.00 +ds077          20.00
++refmov          5.00 +ds031-11       25.00
++du90           73.49 +ds024-12       25.00
++ds19           90.00 +ds004-13       25.00
++ds21           20.75 +ds003-2014     27.00
++bonesp         20.22 +ds002-2015     30.00
++reunifica      27.20 +ds005-2016     38.00
++igv            17.25 +ds020-2017     43.00
+========================================================================
+T-REMUN      1,168.91 T-DSCTO         44.44  T-LIQUI     1,124.47
+MImponible   1,111.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000002
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024876906-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : AQUEPUCHO CRUZ
+Nombres                      : ISAURO
+Fecha de Nacimiento          : 29/10/1947
+Documento de Identidad       : (Lib.Electoral o D.N.) 24876906
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE PENSIóN PROVISIONAL
+Tipo de Pension              : CESANTE DOC NO NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 3/0-0/24
+Tiempo de Servicio (AA-MM-DD): 00-00-00 ESSALUD : 4710291AECZI005
+Fecha de Registro            : Cese :07/04/1975 Termino:07/04/1975
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221368350
+Leyenda Permanente           : RD 280-16 PENSION DEFINITIVA AL 100
+Leyenda Mensual              :
+
+
+
+========================================================================
++P_DL20530   1,028.31
++ds020-2017     43.00
++ds011-2018     29.00
++ds009-2019     30.00
++ds006-2020     30.00
+-ipss           46.40
+
+
+
+
+
+
+
+
+========================================================================
+T-REMUN      1,160.31 T-DSCTO         46.40  T-LIQUI     1,113.91
+MImponible   1,160.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000003
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024862834-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : ARIAS MEDINA
+Nombres                      : GLORIA DORIS
+Fecha de Nacimiento          : 20/12/1951
+Documento de Identidad       : (Lib.Electoral o D.N.) 24862834
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: A/0-0/30
+Tiempo de Servicio (AA-MM-DD): 21-00-13 ESSALUD :
+Fecha de Registro            : Cese :08/06/1979 Termino:08/06/1979
+Cta. TeleAhorro o Nro. Cheque: CTA- 4161704313
+Leyenda Permanente           : DEBE REGULARIZAR SU DECL.JUR. DE SU
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       14.80
++personal        0.02 +du073          71.50
++ael25671       60.00 +du011          82.94
++aeds081        60.00 +ds017         100.00
++tph            18.69 +ds020-2017     43.00
++familiar        3.00 +ds011-2018     29.00
++du080          63.00 +ds009-2019     30.00
++refmov          5.00 +ds006-2020     30.00
++du90           61.64 -ipss           33.40
++ds19           90.00 -prderrmag     395.94
++ds21           16.09
++bonesp         14.80
++reunifica      22.57
++igv            17.25
+========================================================================
+T-REMUN        883.30 T-DSCTO        429.34  T-LIQUI       453.96
+MImponible     835.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000004
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024869126-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : AUQUITAYASI HUILLCA
+Nombres                      : LUIS
+Fecha de Nacimiento          : 07/03/1949
+Documento de Identidad       : (Lib.Electoral o D.N.) 24869126
+Cargo                        : COORD. LEY 24029
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: C/0-0/40
+Tiempo de Servicio (AA-MM-DD): 22-02-20 ESSALUD : 4903071AUHLL005
+Fecha de Registro            : Cese :10/06/1979 Termino:10/06/1979
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359130
+Leyenda Permanente           : DJS. 1-4417 ESPINAR 2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       15.39
++personal        0.01 +du073          63.02
++ael25671       60.00 +du011          73.10
++aeds081        60.00 +ds017         100.00
++tph            15.89 +ds002-2015     30.00
++familiar        3.00 +ds005-2016     38.00
++du080          28.66 +ds020-2017     43.00
++refmov          5.00 +ds011-2018     29.00
++du90           54.33 +ds009-2019     30.00
++ds19           90.00 +ds006-2020     30.00
++ds21            8.90 -ipss           33.52
++bonesp         15.39
++reunifica      20.04
++igv            17.25
+========================================================================
+T-REMUN        879.98 T-DSCTO         33.52  T-LIQUI       846.46
+MImponible     838.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000005
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      8000003646-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : BUSTAMANTE DE LOVON
+Nombres                      : REINILDA
+Fecha de Nacimiento          : 08/09/1958
+Documento de Identidad       : (Lib.Electoral o D.N.) 24865711
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 3/0-0/30
+Tiempo de Servicio (AA-MM-DD): 26-09-23 ESSALUD :
+Fecha de Registro            : Cese :01/03/2007 Termino:01/03/2007
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359718
+Leyenda Permanente           : R.D.N? 060-07 CESA AP. 01-03-07
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +du073          96.83
++personal        0.03 +du011         112.32
++ael25671       60.00 -ipss           32.08
++aeds081        70.00 -prderrmag     373.74
++tph            31.75
++du080         134.00
++refmov          5.00
++du90           83.47
++ds19          109.00
++ds21           25.07
++bonesp         19.95
++reunifica      29.65
++igv            17.25
++difpensi       19.95
+========================================================================
+T-REMUN        864.27 T-DSCTO        405.82  T-LIQUI       458.45
+MImponible     802.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000006
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024886601-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : BUSTAMANTE HUACARPUMA
+Nombres                      : SANTIAGO
+Fecha de Nacimiento          : 25/07/1925
+Documento de Identidad       : (Lib.Electoral o D.N.) 24886601
+Cargo                        : DIRECTOR C.E
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/40
+Tiempo de Servicio (AA-MM-DD): 33-02-24 ESSALUD :
+Fecha de Registro            : Cese :26/11/1992 Termino:26/11/1992
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221367141
+Leyenda Permanente           : DJS. 1-4665 ESPINAR 2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +igv            17.25  +ds002-2015     30.00
++personal        0.05 +difpensi       24.91  +ds005-2016     38.00
++ael25671       60.00 +du073         107.30  +ds020-2017     43.00
++aeds081        70.00 +du011         124.47  +ds011-2018     29.00
++tph            42.30 +ds016          16.57  +ds009-2019     30.00
++familiar        3.00 +ds110           7.22  +ds006-2020     30.00
++du080         144.00 +ds039          10.00  -ipss           50.68
++refmov          5.00 +ds120          15.00
++du90           92.50 +ds014          15.00
++ds19          120.00 +ds077          20.00
++ds21           24.90 +ds031-11       25.00
++bondirct        4.98 +ds024-12       25.00
++bonesp         29.06 +ds004-13       25.00
++reunifica      32.62 +ds003-2014     27.00
+========================================================================
+T-REMUN      1,338.13 T-DSCTO         50.68  T-LIQUI     1,287.45
+MImponible   1,267.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000007
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024879544-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : BUSTAMANTE VILLAVICENCIO
+Nombres                      : AGRIPINO
+Fecha de Nacimiento          : 23/06/1944
+Documento de Identidad       : (Lib.Electoral o D.N.) 24879544
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/30
+Tiempo de Servicio (AA-MM-DD): 28-11-00 ESSALUD : 4406231BTVLA003
+Fecha de Registro            : Cese :29/04/1974 Termino:29/04/1974
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221358797
+Leyenda Permanente           : DJS. 1-4167 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +art18           1.17  +ds006-2020     30.00
++personal        0.04 +difpensi       23.73  -ipss           46.16
++ael25671       60.00 +du073         100.86
++aeds081        70.00 +du011         116.89
++tph            38.89 +ds077          20.00
++familiar        4.50 +ds031-11       25.00
++du080         128.03 +ds024-12       25.00
++refmov          5.00 +ds004-13       25.00
++du90           86.94 +ds003-2014     27.00
++ds19          115.00 +ds002-2015     30.00
++ds21           25.44 +ds005-2016     38.00
++bonesp         23.73 +ds020-2017     43.00
++reunifica      30.59 +ds011-2018     29.00
++igv            17.25 +ds009-2019     30.00
+========================================================================
+T-REMUN      1,220.06 T-DSCTO         46.16  T-LIQUI     1,173.90
+MImponible   1,154.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000008
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024661523-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : BUSTAMANTE VILLAVICENCIO
+Nombres                      : JESUS AURELIO
+Fecha de Nacimiento          : 15/10/1943
+Documento de Identidad       : (Lib.Electoral o D.N.) 24661523
+Cargo                        : DIRECTOR C.E
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 4/0-0/40
+Tiempo de Servicio (AA-MM-DD): 31-00-00 ESSALUD : 4310151BTVLJ008
+Fecha de Registro            : Cese :01/04/1975 Termino:01/04/1975
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359165
+Leyenda Permanente           : DJS. 1-4094 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +igv            17.25  +ds009-2019     30.00
++personal        0.04 +difpensi       23.00  +ds006-2020     30.00
++ael25671       60.00 +du073         103.72  -ipss           47.64
++aeds081        70.00 +du011         120.32  -subcafae      549.43
++tph            37.40 +ds014          15.00
++familiar        3.00 +ds077          20.00
++du080         140.00 +ds031-11       25.00
++refmov          5.00 +ds024-12       25.00
++du90           89.42 +ds004-13       25.00
++ds19          116.00 +ds003-2014     27.00
++ds21           24.51 +ds002-2015     30.00
++bondirct        4.60 +ds005-2016     38.00
++bonesp         26.84 +ds020-2017     43.00
++reunifica      31.19 +ds011-2018     29.00
+========================================================================
+T-REMUN      1,259.29 T-DSCTO        597.07  T-LIQUI       662.22
+MImponible   1,191.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000009
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024861030-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CALLI CARLOS
+Nombres                      : FRANCISCO
+Fecha de Nacimiento          : 13/05/1947
+Documento de Identidad       : (Lib.Electoral o D.N.) 24861030
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/30
+Tiempo de Servicio (AA-MM-DD): 34-04-24 ESSALUD :
+Fecha de Registro            : Cese :31/12/2050 Termino:31/12/2050
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221363065
+Leyenda Permanente           : DJS. 1-4143 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +du073         102.85
++personal        0.04 +du011         119.31
++ael25671       60.00 +ds004-13       25.00
++aeds081        70.00 +ds003-2014     27.00
++tph            40.35 +ds002-2015     30.00
++du080         142.00 +ds005-2016     38.00
++refmov          5.00 +ds020-2017     43.00
++du90           88.67 +ds011-2018     29.00
++ds19          115.00 +ds009-2019     30.00
++ds21           26.39 +ds006-2020     30.00
++bonesp        275.03 -ipss           55.00
++reunifica      31.74
++igv            17.25
++difpensi       23.16
+========================================================================
+T-REMUN      1,418.79 T-DSCTO         55.00  T-LIQUI     1,363.79
+MImponible   1,375.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000010
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024894746-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CARRASCO CHUCHULLO
+Nombres                      : AUGUSTO ALBERTO
+Fecha de Nacimiento          : 01/08/1947
+Documento de Identidad       : (Lib.Electoral o D.N.) 24894746
+Cargo                        : DIRECTOR C.E
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/40
+Tiempo de Servicio (AA-MM-DD): 30-00-00 ESSALUD :
+Fecha de Registro            : Cese :16/05/1975 Termino:16/05/1975
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221373478
+Leyenda Permanente           : DJS. 1-4503 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +igv            17.25
++personal        0.04 +difpensi       24.90
++ael25671       60.00 +du073         107.30
++aeds081        70.00 +du011         124.47
++tph            42.30 +ds004-13       25.00
++familiar        3.00 +ds003-2014     27.00
++du080         144.00 +ds002-2015     30.00
++refmov          5.00 +ds005-2016     38.00
++du90           92.50 +ds020-2017     43.00
++ds19          120.00 +ds011-2018     29.00
++ds21           24.90 +ds009-2019     30.00
++bondirct        4.98 +ds006-2020     30.00
++bonesp        343.25 -ipss           45.32
++reunifica      32.62
+========================================================================
+T-REMUN      1,518.51 T-DSCTO         45.32  T-LIQUI     1,473.19
+MImponible   1,133.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000011
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024801878-313005
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CASTILLO PRIETO
+Nombres                      : JESUS MANUEL
+Fecha de Nacimiento          : 25/12/1951
+Documento de Identidad       : (Lib.Electoral o D.N.) 24801878
+Cargo                        : ESP.EDUC.
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 4/0-0/40
+Tiempo de Servicio (AA-MM-DD): 00-00-00 ESSALUD : 5112251CTPEJ005
+Fecha de Registro            : Cese :31/05/2017 Termino:31/05/2017
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221363138
+Leyenda Permanente           : RD. 1009-2017 CESE.LE AP31/05/2017;
+Leyenda Mensual              :
+
+
+
+========================================================================
++P_DL20530   1,726.29
++ds011-2018     29.00
++ds009-2019     30.00
++ds006-2020     30.00
+-ipss           72.60
+-subcafae      859.81
+
+
+
+
+
+
+
+
+========================================================================
+T-REMUN      1,815.29 T-DSCTO        932.41  T-LIQUI       882.88
+MImponible   1,815.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000012
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024786560-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CASTRO CUBA MONTAÑEZ
+Nombres                      : ALEJANDRA
+Fecha de Nacimiento          : 26/02/1958
+Documento de Identidad       : (Lib.Electoral o D.N.) 24786560
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 3/0-0/30
+Tiempo de Servicio (AA-MM-DD): 25-00-00 ESSALUD : 5802260CTMTA009
+Fecha de Registro            : Cese :25/08/1980 Termino:25/08/1980
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359831
+Leyenda Permanente           : DJS. 1-4408  ESPINAR 2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       20.85
++personal        0.03 +du073          97.71
++ael25671       60.00 +du011         113.27
++aeds081        70.00 -ipss           32.36
++tph            31.75 -subcafae      420.73
++familiar        3.00
++du080         134.00
++refmov          5.00
++du90           84.29
++ds19          109.00
++ds21           25.07
++bonesp        255.26
++reunifica      29.65
++igv            17.25
+========================================================================
+T-REMUN      1,106.13 T-DSCTO        453.09  T-LIQUI       653.04
+MImponible     809.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000013
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024874812-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CCAHUANA CONDORI
+Nombres                      : AQUILINO
+Fecha de Nacimiento          : 18/12/1946
+Documento de Identidad       : (Lib.Electoral o D.N.) 24874812
+Cargo                        : DIRECTOR C.E
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 4/0-0/40
+Tiempo de Servicio (AA-MM-DD): 34-00-00 ESSALUD : 4612181CHCDA008
+Fecha de Registro            : Cese :12/12/1999 Termino:12/12/1999
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221358835
+Leyenda Permanente           : DJS. 1-0356 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       22.11
++personal        0.04 +du073         106.44
++ael25671       60.00 +du011         123.98
++aeds081        70.00 +ds024-12       25.00
++tph            37.40 +ds004-13       25.00
++du080         140.00 +ds003-2014     27.00
++refmov          5.00 +ds002-2015     30.00
++du90           91.14 +ds005-2016     38.00
++ds19          116.00 +ds020-2017     43.00
++ds21           24.51 +ds011-2018     29.00
++bondirct        4.42 +ds009-2019     30.00
++bonesp         25.79 +ds006-2020     30.00
++reunifica      31.19 -ipss           45.40
++igv            17.25 -subcafae      527.41
+========================================================================
+T-REMUN      1,202.27 T-DSCTO        572.81  T-LIQUI       629.46
+MImponible   1,135.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000014
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024883553-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CCAMA SULLCA
+Nombres                      : AGRIPINO
+Fecha de Nacimiento          : 23/06/1955
+Documento de Identidad       : (Lib.Electoral o D.N.) 24883553
+Cargo                        : PROF. POR HORA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./G.Ocup./Horas/HrsAdd: A/0-0/24
+Tiempo de Servicio (AA-MM-DD): 31-07-11 ESSALUD : 000000000000
+Fecha de Registro            : Cese :31/03/2012 Termino:31/03/2012
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359726
+Leyenda Permanente           : RD. N? 348-12 CESA AP. 31/03/0212
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         49.97 +difpensi       16.58
++personal        0.03 +du073          81.02
++ael25671       60.00 +du011          93.99
++aeds081        60.00 -ipss           28.16
++tph            22.00 -subcafae      336.10
++familiar        3.00
++du080         111.00
++refmov          5.00
++du90           69.85
++ds19           90.00
++ds21            9.86
++bonesp         16.58
++reunifica      25.20
++igv            17.25
+========================================================================
+T-REMUN        731.33 T-DSCTO        364.26  T-LIQUI       367.07
+MImponible     704.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000015
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024861468-313005
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CCAMERCCOA MAGAÑO
+Nombres                      : JORGE
+Fecha de Nacimiento          : 20/10/1954
+Documento de Identidad       : (Lib.Electoral o D.N.) 24861468
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE PENSIóN PROVISIONAL
+Tipo de Pension              : CESANTE DOC NO NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 2/0-0/40
+Tiempo de Servicio (AA-MM-DD): 00-00-00 ESSALUD : 5410201CMMAJ009
+Fecha de Registro            : Cese :03/10/1900 Termino:03/10/1900
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359777
+Leyenda Permanente           : RD 441-15 PENSION PROVISIONAL AL 90
+Leyenda Mensual              :
+
+
+
+========================================================================
++P_DL20530   1,000.57
++ds006-2020     30.00
+-ipss           41.24
+
+
+
+
+
+
+
+
+
+
+
+========================================================================
+T-REMUN      1,030.57 T-DSCTO         41.24  T-LIQUI       989.33
+MImponible   1,031.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000016
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024570809-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CCORAHUA ANCCA
+Nombres                      : MARCELINO
+Fecha de Nacimiento          : 02/06/1949
+Documento de Identidad       : (Lib.Electoral o D.N.) 24570809
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 3/0-0/30
+Tiempo de Servicio (AA-MM-DD): 29-08-08 ESSALUD : 000000000000000
+Fecha de Registro            : Cese :31/08/2009 Termino:31/08/2009
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221368369
+Leyenda Permanente           : RD.634-09 CESA AP. 01/09/09
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         49.02 +difpensi       20.44
++personal        0.03 +du073          95.81
++ael25671       58.83 +du011         111.14
++aeds081        68.63 +ds002-2015     30.00
++tph            31.13 +ds005-2016     38.00
++familiar        3.00 +ds020-2017     43.00
++du080         131.39 +ds011-2018     29.00
++refmov          4.90 +ds009-2019     30.00
++du90           82.60 +ds006-2020     30.00
++ds19          106.88 -ipss           40.52
++ds21           24.58 -subcafae      462.58
++bonesp         20.44
++reunifica      29.07
++igv            16.91
+========================================================================
+T-REMUN      1,054.80 T-DSCTO        503.10  T-LIQUI       551.70
+MImponible   1,013.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000017
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      8000010911-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CHANI HUAIHUA
+Nombres                      : DIOMEDES
+Fecha de Nacimiento          : 11/09/1945
+Documento de Identidad       : (Lib.Electoral o D.N.) 24866443
+Cargo                        : DIRECTOR C.E
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/40
+Tiempo de Servicio (AA-MM-DD): 25-06-29 ESSALUD : 4509111CNHYD000
+Fecha de Registro            : Cese :03/05/1992 Termino:03/05/1992
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221367087
+Leyenda Permanente           : OF.004-2010-S&E-CCE/AQP D.S.E. DSCT
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +igv            17.25  -ipss           42.52
++personal        0.03 +difpensi       21.53
++ael25671       60.00 +du073          92.07
++aeds081        70.00 +du011         106.80
++tph            35.96 +ds031-11       25.00
++familiar        3.00 +ds024-12       25.00
++du080          84.90 +ds004-13       25.00
++refmov          5.00 +ds003-2014     27.00
++du90           79.37 +ds002-2015     30.00
++ds19          120.00 +ds005-2016     38.00
++ds21           21.17 +ds020-2017     43.00
++bondirct        4.31 +ds011-2018     29.00
++bonesp         25.12 +ds009-2019     30.00
++reunifica      27.73 +ds006-2020     30.00
+========================================================================
+T-REMUN      1,126.24 T-DSCTO         42.52  T-LIQUI     1,083.72
+MImponible   1,063.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000018
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024863428-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CHILO LAUCATA
+Nombres                      : AMANDA IGIDIA
+Fecha de Nacimiento          : 01/09/1959
+Documento de Identidad       : (Lib.Electoral o D.N.) 24863428
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 2/0-0/30
+Tiempo de Servicio (AA-MM-DD): 26-04-22 ESSALUD : 5909010CLLCA001
+Fecha de Registro            : Cese :19/04/1979 Termino:19/04/1979
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359491
+Leyenda Permanente           : DJS. 1-4231 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       19.87
++personal        0.03 +du073          95.44
++ael25671       60.00 +du011         110.71
++aeds081        70.00 -ipss           31.64
++tph            28.85 -prderrmag     410.42
++familiar        3.00
++du080         131.00
++refmov          5.00
++du90           82.27
++ds19          106.00
++ds21           24.03
++bonesp        249.82
++reunifica      29.29
++igv            17.25
+========================================================================
+T-REMUN      1,082.56 T-DSCTO        442.06  T-LIQUI       640.50
+MImponible     791.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000019
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024863760-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CHOQUE GUTIERREZ
+Nombres                      : SOCORRO MARINA
+Fecha de Nacimiento          : 02/07/1946
+Documento de Identidad       : (Lib.Electoral o D.N.) 24863760
+Cargo                        : DIRECTOR C.E
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/40
+Tiempo de Servicio (AA-MM-DD): 27-02-01 ESSALUD :
+Fecha de Registro            : Cese :31/07/1989 Termino:31/07/1989
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221366587
+Leyenda Permanente           : DJS. 1-4334 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +igv            17.25
++personal        0.05 +difpensi       24.91
++ael25671       60.00 +du073         107.30
++aeds081        70.00 +du011         124.47
++tph            42.30 +ds024-12       25.00
++familiar        3.00 +ds004-13       25.00
++du080         144.00 +ds003-2014     27.00
++refmov          5.00 +ds002-2015     30.00
++du90           92.50 +ds005-2016     38.00
++ds19          120.00 +ds020-2017     43.00
++ds21           24.90 +ds011-2018     29.00
++bondirct        4.98 +ds009-2019     30.00
++bonesp         29.06 +ds006-2020     30.00
++reunifica      32.62 -ipss           46.32
+========================================================================
+T-REMUN      1,229.34 T-DSCTO         46.32  T-LIQUI     1,183.02
+MImponible   1,158.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000020
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024876701-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CHOQUE MAMANI
+Nombres                      : PASTOR
+Fecha de Nacimiento          : 28/03/1945
+Documento de Identidad       : (Lib.Electoral o D.N.) 24876701
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: E/0-0/30
+Tiempo de Servicio (AA-MM-DD): 20-03-11 ESSALUD : 4503281CQMAP007
+Fecha de Registro            : Cese :01/04/1974 Termino:01/04/1974
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221367184
+Leyenda Permanente           : 15  DJS. 1-0381 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       11.59  -ipss           35.32
++personal        0.01 +du073          54.83
++ael25671       60.00 +du011          63.60
++aeds081        60.00 +ds017         100.00
++tph            13.67 +ds031-11       25.00
++familiar        3.00 +ds024-12       25.00
++du080           4.65 +ds004-13       25.00
++refmov          5.00 +ds003-2014     27.00
++du90           47.27 +ds002-2015     30.00
++ds19           90.00 +ds005-2016     38.00
++ds21            1.70 +ds020-2017     43.00
++bonesp         11.59 +ds011-2018     29.00
++reunifica      16.94 +ds009-2019     30.00
++igv            17.25 +ds006-2020     30.00
+========================================================================
+T-REMUN        913.10 T-DSCTO         35.32  T-LIQUI       877.78
+MImponible     883.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000021
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024663952-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CHOQUENAIRA HUILLCA
+Nombres                      : FELIPE
+Fecha de Nacimiento          : 01/05/1939
+Documento de Identidad       : (Lib.Electoral o D.N.) 24663952
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 4/0-0/30
+Tiempo de Servicio (AA-MM-DD): 27-05-13 ESSALUD : 3905011CQHLF007
+Fecha de Registro            : Cese :16/03/1976 Termino:16/03/1976
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221373834
+Leyenda Permanente           : DJS. 1-4305 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       20.73  +ds005-2016     38.00
++personal        0.03 +du073          92.20  +ds020-2017     43.00
++ael25671       60.00 +du011         106.95  +ds011-2018     29.00
++aeds081        70.00 +ds016          14.36  +ds009-2019     30.00
++tph            33.31 +ds110           6.26  +ds006-2020     30.00
++familiar        3.00 +ds039          10.00  -ipss           45.88
++du080         104.36 +ds120          15.00
++refmov          5.00 +ds014          15.00
++du90           79.48 +ds077          20.00
++ds19          112.00 +ds031-11       25.00
++ds21           22.60 +ds024-12       25.00
++bonesp        280.57 +ds004-13       25.00
++reunifica      27.70 +ds003-2014     27.00
++igv            17.25 +ds002-2015     30.00
+========================================================================
+T-REMUN      1,467.80 T-DSCTO         45.88  T-LIQUI     1,421.92
+MImponible   1,147.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000022
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024875769-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CHUCHULLO SANCHEZ
+Nombres                      : FERNANDO
+Fecha de Nacimiento          : 30/06/1954
+Documento de Identidad       : (Lib.Electoral o D.N.) 24875769
+Cargo                        : DIRECTOR C.E
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 3/0-0/40
+Tiempo de Servicio (AA-MM-DD): 30-01-00 ESSALUD :
+Fecha de Registro            : Cese :31/12/2050 Termino:31/12/2050
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221373370
+Leyenda Permanente           : DJS. 1-4391 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       20.63
++personal        0.04 +du073          99.86
++ael25671       60.00 +du011         115.84
++aeds081        70.00 +ds006-2020     30.00
++tph            33.20 -ipss           46.12
++du080         136.00
++refmov          5.00
++du90           86.08
++ds19          113.00
++ds21           24.18
++bondirct        4.13
++bonesp        298.26
++reunifica      30.47
++igv            17.25
+========================================================================
+T-REMUN      1,193.94 T-DSCTO         46.12  T-LIQUI     1,147.82
+MImponible   1,153.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000023
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024894287-313007
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CHUCTAYA GUTIERREZ
+Nombres                      : LEONCIO
+Fecha de Nacimiento          : 13/01/1952
+Documento de Identidad       : (Lib.Electoral o D.N.) 24894287
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 2/0-0/30
+Tiempo de Servicio (AA-MM-DD): 00-00-00 ESSALUD : 5201131CCGIL001
+Fecha de Registro            : Cese :31/12/2050 Termino:31/12/2050
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359106
+Leyenda Permanente           : RD.175-16PProv/RD.1411-18PDefinitiv
+Leyenda Mensual              :
+
+
+
+========================================================================
++P_DL20530   1,111.75
++ds011-2018     29.00
++ds009-2019     30.00
++ds006-2020     30.00
+-ipss           48.04
+
+
+
+
+
+
+
+
+
+========================================================================
+T-REMUN      1,200.75 T-DSCTO         48.04  T-LIQUI     1,152.71
+MImponible   1,201.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000024
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024865397-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CHULLO INCACAYO
+Nombres                      : ERASMO
+Fecha de Nacimiento          : 25/11/1953
+Documento de Identidad       : (Lib.Electoral o D.N.) 24865397
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 3/0-0/30
+Tiempo de Servicio (AA-MM-DD): 30-00-25 ESSALUD : 5311251CLIAE007
+Fecha de Registro            : Cese :01/08/2008 Termino:01/08/2008
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221373400
+Leyenda Permanente           : RD. 0386-08 CESA AP. 01-08-08
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +du073          97.72
++ael25671       60.00 +du011         113.36
++aeds081        70.00 +ds009-2019     30.00
++tph            31.75 +ds006-2020     30.00
++familiar        3.00 -ipss           35.56
++du080         134.00
++refmov          5.00
++du90           84.24
++ds19          109.00
++ds21           25.07
++bonesp         20.85
++reunifica      29.65
++igv            17.25
++difpensi       20.85
+========================================================================
+T-REMUN        931.74 T-DSCTO         35.56  T-LIQUI       896.18
+MImponible     889.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000025
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024863398-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CHULLO MAMANI
+Nombres                      : ANDRES J ELEUTERIO
+Fecha de Nacimiento          : 20/02/1943
+Documento de Identidad       : (Lib.Electoral o D.N.) 24863398
+Cargo                        : DIRECTOR C.E
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/40
+Tiempo de Servicio (AA-MM-DD): 29-10-29 ESSALUD : 4302201CLMAA005
+Fecha de Registro            : Cese :16/03/1976 Termino:16/03/1976
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221363073
+Leyenda Permanente           : DJS. 1-4310  ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +art18           5.00  +ds009-2019     30.00
++personal        0.04 +difpensi       24.78  +ds006-2020     30.00
++ael25671       60.00 +du073         106.74  -ipss           48.56
++aeds081        70.00 +du011         123.82  -subcafae      464.85
++tph            42.07 +ds014          15.00
++familiar        3.00 +ds077          20.00
++du080         141.81 +ds031-11       25.00
++refmov          5.00 +ds024-12       25.00
++du90           92.02 +ds004-13       25.00
++ds19          120.00 +ds003-2014     27.00
++ds21           24.76 +ds002-2015     30.00
++bonesp         28.92 +ds005-2016     38.00
++reunifica      32.44 +ds020-2017     43.00
++igv            17.25 +ds011-2018     29.00
+========================================================================
+T-REMUN      1,284.65 T-DSCTO        513.41  T-LIQUI       771.24
+MImponible   1,214.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000026
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024863903-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : COA CHOQUEHUANCA
+Nombres                      : ARTURO FRANCISCO
+Fecha de Nacimiento          : 10/08/1932
+Documento de Identidad       : (Lib.Electoral o D.N.) 24863903
+Cargo                        : DIR.PRO.SEC.III
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE ADM. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 0/F-4/40
+Tiempo de Servicio (AA-MM-DD): 30-10-24 ESSALUD : 3208101CACQA004
+Fecha de Registro            : Cese :08/05/1959 Termino:08/05/1959
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221366846
+Leyenda Permanente           : DJS. 1-4129 ESPINAR  2006 DU.01-201
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +du073         171.56  +ds005-2016     38.00
++personal        0.04 +du011         199.01  +ds006-2020     30.00
++ael25671       60.00 +ds016          18.91  -ipss           53.36
++aeds081        70.00 +ds110           8.24  -subcafae        5.00
++tph           127.49 +ds039          10.00
++familiar        3.00 +ds120          15.00
++du080         144.00 +ds014          15.00
++refmov          5.00 +ds077          20.00
++du90          147.89 +ds031-11       25.00
++ds21           30.00 +Ley29702      380.00
++bonesp         16.29 +ds024-12       25.00
++reunifica      38.45 +ds004-13       25.00
++igv            17.25 +ds003-2014     27.00
++difpensi       13.97 +ds002-2015     30.00
+========================================================================
+T-REMUN      1,761.10 T-DSCTO         58.36  T-LIQUI     1,702.74
+MImponible   1,334.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000027
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      8000010917-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : COA DE JIMENEZ
+Nombres                      : ADELAIDA
+Fecha de Nacimiento          : 16/10/1937
+Documento de Identidad       : (Lib.Electoral o D.N.) 24862943
+Cargo                        : DIRECTOR C.E
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/40
+Tiempo de Servicio (AA-MM-DD): 33-11-02 ESSALUD : 3710160CACQA001
+Fecha de Registro            : Cese :01/03/1964 Termino:01/03/1964
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221367028
+Leyenda Permanente           : DJS. 1-4127 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +igv            17.25  +ds002-2015     30.00
++personal        0.05 +difpensi       24.91  +ds005-2016     38.00
++ael25671       60.00 +du073         107.30  +ds020-2017     43.00
++aeds081        70.00 +du011         124.47  +ds011-2018     29.00
++tph            42.30 +ds016          16.57  +ds009-2019     30.00
++familiar        3.00 +ds110           7.22  +ds006-2020     30.00
++du080         144.00 +ds039          10.00  -ipss           50.68
++refmov          5.00 +ds120          15.00
++du90           92.50 +ds014          15.00
++ds19          120.00 +ds077          20.00
++ds21           24.90 +ds031-11       25.00
++bondirct        4.98 +ds024-12       25.00
++bonesp         29.06 +ds004-13       25.00
++reunifica      32.62 +ds003-2014     27.00
+========================================================================
+T-REMUN      1,338.13 T-DSCTO         50.68  T-LIQUI     1,287.45
+MImponible   1,267.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000028
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024661469-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : COLQUE QUISPE
+Nombres                      : MARCELINO
+Fecha de Nacimiento          : 26/01/1950
+Documento de Identidad       : (Lib.Electoral o D.N.) 24661469
+Cargo                        : COORD. LEY 24029
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 3/0-0/40
+Tiempo de Servicio (AA-MM-DD): 20-00-00 ESSALUD : 5001261CQQSM000
+Fecha de Registro            : Cese :01/04/1974 Termino:01/04/1974
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221367192
+Leyenda Permanente           : DJS. 1-4273 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +du073          67.64
++personal        0.02 +du011          78.46
++ael25671       60.00 +ds017         100.00
++aeds081        70.00 +ds005-2016     38.00
++tph            22.13 +ds020-2017     43.00
++du080           9.67 +ds011-2018     29.00
++refmov          5.00 +ds009-2019     30.00
++du90           58.31 +ds006-2020     30.00
++ds19          113.00 -ipss           33.56
++ds21           16.12
++bonesp         16.63
++reunifica      20.31
++igv            17.25
++difpensi       14.25
+========================================================================
+T-REMUN        888.79 T-DSCTO         33.56  T-LIQUI       855.23
+MImponible     839.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000029
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024872786-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CONZA CCORIMANYA
+Nombres                      : LUCIO JUVENAL
+Fecha de Nacimiento          : 02/03/1946
+Documento de Identidad       : (Lib.Electoral o D.N.) 42545546
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 4/0-0/30
+Tiempo de Servicio (AA-MM-DD): 30-06-14 ESSALUD : 4603021CZCRL002
+Fecha de Registro            : Cese :12/12/1999 Termino:12/12/1999
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221358789
+Leyenda Permanente           : RD. 0916-12. BONESP.01/12/2013 + re
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +du073         103.47
++personal        0.04 +du011         120.03
++ael25671       60.00 +ds024-12       25.00
++aeds081        70.00 +ds004-13       25.00
++tph            36.45 +ds003-2014     27.00
++du080         137.00 +ds002-2015     30.00
++refmov          5.00 +ds005-2016     38.00
++du90           89.19 +ds020-2017     43.00
++ds19          112.00 +ds011-2018     29.00
++ds21           24.73 +ds009-2019     30.00
++bonesp        266.98 +ds006-2020     30.00
++reunifica      30.31 -ipss           44.48
++igv            17.25 -subcafae      665.49
++difpensi       21.56 -prderrmag      22.78
+========================================================================
+T-REMUN      1,421.01 T-DSCTO        732.75  T-LIQUI       688.26
+MImponible   1,112.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000030
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024866958-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CUELA PAIVA
+Nombres                      : JULIA
+Fecha de Nacimiento          : 09/01/1953
+Documento de Identidad       : (Lib.Electoral o D.N.) 24866958
+Cargo                        : JEFE DE LABOR.
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 3/0-0/40
+Tiempo de Servicio (AA-MM-DD): 25-00-00 ESSALUD : 5301090CLPVJ008
+Fecha de Registro            : Cese :25/08/1978 Termino:25/08/1978
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359408
+Leyenda Permanente           : DJS. 1-4405 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +igv            17.25
++personal        0.03 +difpensi       21.53
++ael25671       60.00 +du073         100.81
++aeds081        70.00 +du011         116.94
++tph            33.20 +ds009-2019     30.00
++familiar        3.00 +ds006-2020     30.00
++du080         136.00 -ipss           35.64
++refmov          5.00
++du90           86.90
++ds19          113.00
++ds21           24.18
++bondirct        4.31
++bonesp         25.12
++reunifica      30.47
+========================================================================
+T-REMUN        957.74 T-DSCTO         35.64  T-LIQUI       922.10
+MImponible     891.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000031
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024867390-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : CUYO CARBAJAL
+Nombres                      : JESUS GUIME
+Fecha de Nacimiento          : 16/10/1944
+Documento de Identidad       : (Lib.Electoral o D.N.) 24867390
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 3/0-0/30
+Tiempo de Servicio (AA-MM-DD): 30-00-00 ESSALUD : 4410161COCBJ002
+Fecha de Registro            : Cese :01/04/1964 Termino:01/04/1964
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221367265
+Leyenda Permanente           : DJS. 1-0758 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       20.85  -ipss           45.24
++personal        0.04 +du073          97.72  -judicial      596.89
++ael25671       60.00 +du011         113.36
++aeds081        70.00 +ds077          20.00
++tph            31.75 +ds031-11       25.00
++familiar        3.00 +ds024-12       25.00
++du080         134.00 +ds004-13       25.00
++refmov          5.00 +ds003-2014     27.00
++du90           84.24 +ds002-2015     30.00
++ds19          109.00 +ds005-2016     38.00
++ds21           25.07 +ds020-2017     43.00
++bonesp         20.85 +ds011-2018     29.00
++reunifica      29.65 +ds009-2019     30.00
++igv            17.25 +ds006-2020     30.00
+========================================================================
+T-REMUN      1,193.78 T-DSCTO        642.13  T-LIQUI       551.65
+MImponible   1,131.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000032
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024670428-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : DELGADO AEDO
+Nombres                      : NUMA CECILIO
+Fecha de Nacimiento          : 01/02/1947
+Documento de Identidad       : (Lib.Electoral o D.N.) 24670428
+Cargo                        : SUPERV.PROG.SECT.
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE ADM. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 0/F-4/40
+Tiempo de Servicio (AA-MM-DD): 25-08-10 ESSALUD : 4702011DGAON002
+Fecha de Registro            : Cese :17/07/1972 Termino:17/07/1972
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221366595
+Leyenda Permanente           : DJS. 1-0758  ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         43.33 +du073         161.05
++personal        0.03 +du011         186.82
++ael25671       52.00 +du037         338.00
++aeds081        60.57 +ds004-13       25.00
++tph           121.74 +ds003-2014     27.00
++familiar        2.60 +ds002-2015     30.00
++du080         156.00 +ds005-2016     38.00
++refmov          4.33 +ds006-2020     30.00
++du90          138.83 -ipss           47.80
++ds21           26.00
++bonesp         57.95
++reunifica      36.81
++igv            14.95
++difpensi       22.59
+========================================================================
+T-REMUN      1,573.60 T-DSCTO         47.80  T-LIQUI     1,525.80
+MImponible   1,195.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000033
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1023881600-313009
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : ECHEGARAY DE FUENTES
+Nombres                      : YVONNE
+Fecha de Nacimiento          : 29/09/1954
+Documento de Identidad       : (Lib.Electoral o D.N.) 23881600
+Cargo                        : ESP.EDUC.
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/40
+Tiempo de Servicio (AA-MM-DD): 00-00-00 ESSALUD :
+Fecha de Registro            : Cese :31/12/2060 Termino:31/12/2060
+Cta. TeleAhorro o Nro. Cheque: CTA- 4161562535
+Leyenda Permanente           : rd n° 01713-19 ap. 01/10/2019
+Leyenda Mensual              :
+
+
+
+========================================================================
++P_DL20530   2,031.46
++ds006-2020     30.00
+-ipss           82.44
+
+
+
+
+
+
+
+
+
+
+
+========================================================================
+T-REMUN      2,061.46 T-DSCTO         82.44  T-LIQUI     1,979.02
+MImponible   2,061.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000034
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024883460-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : ENRIQUEZ CABRERA
+Nombres                      : ASUNTA
+Fecha de Nacimiento          : 15/08/1960
+Documento de Identidad       : (Lib.Electoral o D.N.) 24883460
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 2/0-0/30
+Tiempo de Servicio (AA-MM-DD): 26-06-25 ESSALUD :
+Fecha de Registro            : Cese :01/10/2005 Termino:01/10/2005
+Cta. TeleAhorro o Nro. Cheque: CTA- 4101775173
+Leyenda Permanente           : DJS. 1-1385 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +du073          84.61
++personal        0.02 +du011          98.15
++ael25671       53.00 +ds017          50.00
++aeds081        61.83 -ipss           30.24
++tph            25.48
++du080         115.72
++refmov          5.00
++du90           72.94
++ds19           93.63
++ds21           21.23
++bonesp         16.92
++reunifica      25.87
++igv            17.25
++difpensi       19.87
+========================================================================
+T-REMUN        811.52 T-DSCTO         30.24  T-LIQUI       781.28
+MImponible     756.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000035
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024893417-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : ESQUIVEL ZAMBRANO
+Nombres                      : TEOFILO
+Fecha de Nacimiento          : 08/12/1949
+Documento de Identidad       : (Lib.Electoral o D.N.) 24893417
+Cargo                        : AUX. EDUCAC.
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./G.Ocup./Horas/HrsAdd: E/0-0/30
+Tiempo de Servicio (AA-MM-DD): 00-00-00 ESSALUD :
+Fecha de Registro            : Cese :01/05/2013 Termino:01/05/2013
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221360139
+Leyenda Permanente           : OF.810-14DPR.GD PEN DEFINITIVA 100%
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +du073          77.65
++personal        0.01 +dl817         117.30
++ael25671       60.00 +du011          90.07
++aeds081        60.00 +ds002-2015     30.00
++tph            20.25 +ds005-2016     38.00
++du080         108.80 +ds020-2017     43.00
++refmov          5.00 +ds011-2018     29.00
++du90           66.94 +ds009-2019     30.00
++ds19           90.00 +ds006-2020     30.00
++ds21            2.52 -ipss           40.04
++bonesp         15.11 -subcafae        5.00
++reunifica      25.09
++igv            17.25
++difpensi       15.11
+========================================================================
+T-REMUN      1,021.10 T-DSCTO         45.04  T-LIQUI       976.06
+MImponible   1,001.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000036
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024860759-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : FERNANDEZ MENDOZA
+Nombres                      : JUANA ALICIA
+Fecha de Nacimiento          : 23/10/1926
+Documento de Identidad       : (Lib.Electoral o D.N.) 24860759
+Cargo                        : DIRECTOR C.E
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/40
+Tiempo de Servicio (AA-MM-DD): 30-02-23 ESSALUD : 2610230FNMDJ001
+Fecha de Registro            : Cese :11/08/1953 Termino:11/08/1953
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221366609
+Leyenda Permanente           : DJS.1-4394 ESPINAR 2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       24.01  +ds005-2016     38.00
++personal        0.04 +du073         106.35  +ds020-2017     43.00
++ael25671       60.00 +du011         123.36  +ds011-2018     29.00
++aeds081        70.00 +ds016          16.43  +ds009-2019     30.00
++tph            42.30 +ds110           7.16  +ds006-2020     30.00
++du080         144.00 +ds039          10.00  -ipss           50.40
++refmov          5.00 +ds120          15.00
++du90           91.68 +ds014          15.00
++ds19          120.00 +ds077          20.00
++ds21           24.90 +ds031-11       25.00
++bondirct        4.80 +ds024-12       25.00
++bonesp         28.01 +ds004-13       25.00
++reunifica      32.62 +ds003-2014     27.00
++igv            17.25 +ds002-2015     30.00
+========================================================================
+T-REMUN      1,329.91 T-DSCTO         50.40  T-LIQUI     1,279.51
+MImponible   1,260.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000037
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024700249-313002
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : GAMBARINI VERA
+Nombres                      : GUILLERMO RENE
+Fecha de Nacimiento          : 06/06/1956
+Documento de Identidad       : (Lib.Electoral o D.N.) 24700249
+Cargo                        : PROF. POR HORA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 2/0-0/24
+Tiempo de Servicio (AA-MM-DD): 00-00-00 ESSALUD : 5606061GBVAG004
+Fecha de Registro            : Cese :31/12/2050 Termino:31/12/2050
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359661
+Leyenda Permanente           : RD 220-16 PENSION PROVISIONAL
+Leyenda Mensual              :
+
+
+
+========================================================================
++P_DL20530     883.85
+-ipss           35.36
+
+
+
+
+
+
+
+
+
+
+
+
+========================================================================
+T-REMUN        883.85 T-DSCTO         35.36  T-LIQUI       848.49
+MImponible     884.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000038
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024865042-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : GARATE SALAS
+Nombres                      : SONIA
+Fecha de Nacimiento          : 11/03/1948
+Documento de Identidad       : (Lib.Electoral o D.N.) 24865042
+Cargo                        : DIRECTOR C.E
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 4/0-0/40
+Tiempo de Servicio (AA-MM-DD): 24-09-06 ESSALUD : 4803110GASAS003
+Fecha de Registro            : Cese :25/05/1979 Termino:25/05/1979
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359157
+Leyenda Permanente           : DJS. 1-0355 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +igv            17.25
++personal        0.03 +difpensi       22.80
++ael25671       60.00 +du073         102.75
++aeds081        70.00 +du011         119.18
++tph            37.03 +ds003-2014     27.00
++familiar        3.00 +ds002-2015     30.00
++du080         136.14 +ds005-2016     38.00
++refmov          5.00 +ds020-2017     43.00
++du90           88.57 +ds011-2018     29.00
++ds19          116.00 +ds009-2019     30.00
++ds21           24.26 +ds006-2020     30.00
++bondirct        4.56 -ipss           42.92
++bonesp         26.60
++reunifica      30.88
+========================================================================
+T-REMUN      1,141.05 T-DSCTO         42.92  T-LIQUI     1,098.13
+MImponible   1,073.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000039
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024861133-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : GARCIA MENDOZA
+Nombres                      : ZENOBIO
+Fecha de Nacimiento          : 16/07/1953
+Documento de Identidad       : (Lib.Electoral o D.N.) 24861133
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 4/0-0/30
+Tiempo de Servicio (AA-MM-DD): 31-06-14 ESSALUD : 5307161GCMDZ007
+Fecha de Registro            : Cese :02/04/1970 Termino:02/04/1970
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221358754
+Leyenda Permanente           : DJS. 1-4635 ESPINAR  2006 + reint
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       22.46
++personal        0.04 +du073         100.36
++ael25671       60.00 +du011         116.41
++aeds081        70.00 +ds009-2019     30.00
++tph            36.45 +ds006-2020     30.00
++familiar        3.00 -ipss           35.60
++du080         137.00 -subcafae      552.83
++refmov          5.00 -prderrmag      23.98
++du90           86.52
++ds19          112.00
++ds21           24.73
++bonesp        257.68
++reunifica      30.31
++igv            17.25
+========================================================================
+T-REMUN      1,189.21 T-DSCTO        612.41  T-LIQUI       576.80
+MImponible     890.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000040
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024862941-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : GOMEZ VALENCIA
+Nombres                      : LEONARDO
+Fecha de Nacimiento          : 06/11/1952
+Documento de Identidad       : (Lib.Electoral o D.N.) 24862941
+Cargo                        : AUX. EDUCAC.
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./G.Ocup./Horas/HrsAdd: E/0-0/30
+Tiempo de Servicio (AA-MM-DD): 00-00-00 ESSALUD :
+Fecha de Registro            : Cese :30/06/2013 Termino:30/06/2013
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359734
+Leyenda Permanente           : RD. N? 554-13 CESE. PENSION PROV AP
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +du073          70.69
++personal        0.01 +dl817         108.92
++ael25671       54.00 +du011          82.00
++aeds081        54.00 +ds011-2018     29.00
++tph            18.23 +ds009-2019     30.00
++du080          97.20 +ds006-2020     30.00
++refmov          4.50 -ipss           32.84
++du90           60.25
++ds19           81.00
++ds21            2.27
++bonesp         14.41
++reunifica      22.58
++igv            15.53
++difpensi       14.41
+========================================================================
+T-REMUN        839.00 T-DSCTO         32.84  T-LIQUI       806.16
+MImponible     821.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000041
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024866975-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : GUTIERREZ DE CUAQUIRA
+Nombres                      : CLARA LOURDES
+Fecha de Nacimiento          : 10/08/1959
+Documento de Identidad       : (Lib.Electoral o D.N.) 24866975
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 3/0-0/30
+Tiempo de Servicio (AA-MM-DD): 25-07-24 ESSALUD : 5908100GIMAC005
+Fecha de Registro            : Cese :01/01/2006 Termino:01/01/2006
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359688
+Leyenda Permanente           : DJS. 1-4407 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +du073          97.00
++personal        0.03 +du011         112.52
++ael25671       60.00 -ipss           32.12
++aeds081        70.00 -prderrmag     412.71
++tph            31.75
++du080         134.00
++refmov          5.00
++du90           83.62
++ds19          109.00
++ds21           25.07
++bonesp         19.95
++reunifica      29.65
++igv            17.25
++difpensi       20.84
+========================================================================
+T-REMUN        865.68 T-DSCTO        444.83  T-LIQUI       420.85
+MImponible     803.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000042
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024660622-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : HERRERA FLOREZ
+Nombres                      : MARGARITA CLORINDA
+Fecha de Nacimiento          : 22/02/1955
+Documento de Identidad       : (Lib.Electoral o D.N.) 24660622
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 2/0-0/30
+Tiempo de Servicio (AA-MM-DD): 25-00-00 ESSALUD : 5502220HRFRM000
+Fecha de Registro            : Cese :20/08/1980 Termino:20/08/1980
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359599
+Leyenda Permanente           : DJS. 1-4409 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       19.87
++personal        0.03 +du073          95.44
++ael25671       60.00 +du011         110.71
++aeds081        70.00 -ipss           31.64
++tph            28.85 -subcafae      399.68
++familiar        3.00
++du080         131.00
++refmov          5.00
++du90           82.27
++ds19          106.00
++ds21           24.03
++bonesp         19.87
++reunifica      29.29
++igv            17.25
+========================================================================
+T-REMUN        852.61 T-DSCTO        431.32  T-LIQUI       421.29
+MImponible     791.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000043
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      8000010914-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : HUANACO DE COLQUE
+Nombres                      : FILOMENA
+Fecha de Nacimiento          : 12/10/1952
+Documento de Identidad       : (Lib.Electoral o D.N.) 24661624
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 2/0-0/30
+Tiempo de Servicio (AA-MM-DD): 26-02-16 ESSALUD : 5210120HNCUF005
+Fecha de Registro            : Cese :01/04/1980 Termino:01/04/1980
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359513
+Leyenda Permanente           : DJS. 1-4274 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       19.87
++personal        0.03 +du073          95.44
++ael25671       60.00 +du011         110.71
++aeds081        70.00 +ds011-2018     29.00
++tph            28.85 +ds009-2019     30.00
++familiar        3.00 +ds006-2020     30.00
++du080         131.00 -ipss           35.20
++refmov          5.00
++du90           82.27
++ds19          106.00
++ds21           24.03
++bonesp         19.87
++reunifica      29.29
++igv            17.25
+========================================================================
+T-REMUN        941.61 T-DSCTO         35.20  T-LIQUI       906.41
+MImponible     880.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000044
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1029295020-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : HUARACHA VALDEZ
+Nombres                      : TOMAS
+Fecha de Nacimiento          : 21/01/1945
+Documento de Identidad       : (Lib.Electoral o D.N.) 29295020
+Cargo                        : PROF. POR HORA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 0/0-0/24
+Tiempo de Servicio (AA-MM-DD): 31-10-14 ESSALUD : 4501211HRVDT003
+Fecha de Registro            : Cese :01/08/2008 Termino:01/08/2008
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359181
+Leyenda Permanente           : RD. 0326-08 CESA AP. 01-08-08
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       19.81  -judicial      108.62
++personal        0.04 +du073          92.54
++ael25671       60.00 +du011         107.34
++aeds081        70.00 +ds031-11       25.00
++tph            30.30 +ds024-12       25.00
++familiar        3.00 +ds004-13       25.00
++du080         127.00 +ds003-2014     27.00
++refmov          5.00 +ds002-2015     30.00
++du90           79.77 +ds005-2016     38.00
++ds19          105.00 +ds020-2017     43.00
++ds21           13.69 +ds011-2018     29.00
++bonesp         19.81 +ds009-2019     30.00
++reunifica      27.62 +ds006-2020     30.00
++igv            17.25 -ipss           43.96
+========================================================================
+T-REMUN      1,130.17 T-DSCTO        152.58  T-LIQUI       977.59
+MImponible   1,099.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000045
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024891963-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : HUAYLLARO MAMANI
+Nombres                      : PABLO ALEJANDRO
+Fecha de Nacimiento          : 27/02/1944
+Documento de Identidad       : (Lib.Electoral o D.N.) 24891963
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/30
+Tiempo de Servicio (AA-MM-DD): 29-07-00 ESSALUD : 4402271HYMAP001
+Fecha de Registro            : Cese :01/04/1977 Termino:01/04/1977
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221368431
+Leyenda Permanente           : DJS. 1-4235 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       24.06  -ipss           47.08
++personal        0.04 +du073         103.74
++ael25671       60.00 +du011         120.33
++aeds081        70.00 +ds077          20.00
++tph            40.35 +ds031-11       25.00
++familiar        3.00 +ds024-12       25.00
++du080         142.00 +ds004-13       25.00
++refmov          5.00 +ds003-2014     27.00
++du90           89.42 +ds002-2015     30.00
++ds19          115.00 +ds005-2016     38.00
++ds21           26.39 +ds020-2017     43.00
++bonesp         24.06 +ds011-2018     29.00
++reunifica      31.74 +ds009-2019     30.00
++igv            17.25 +ds006-2020     30.00
+========================================================================
+T-REMUN      1,244.38 T-DSCTO         47.08  T-LIQUI     1,197.30
+MImponible   1,177.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000046
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024874840-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : HUILLCAHANCCO LAUCATA
+Nombres                      : JUAN BAUTISTA
+Fecha de Nacimiento          : 24/06/1944
+Documento de Identidad       : (Lib.Electoral o D.N.) 24874840
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/30
+Tiempo de Servicio (AA-MM-DD): 29-00-24 ESSALUD : 4406241HLLCJ008
+Fecha de Registro            : Cese :01/03/2001 Termino:01/03/2001
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221363103
+Leyenda Permanente           : DJS. 1-4634 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       23.34  -ipss           46.04
++personal        0.04 +du073         100.47  -judicial      328.56
++ael25671       60.00 +du011         116.54
++aeds081        70.00 +ds077          20.00
++tph            39.01 +ds031-11       25.00
++familiar        3.00 +ds024-12       25.00
++du080         129.10 +ds004-13       25.00
++refmov          5.00 +ds003-2014     27.00
++du90           86.61 +ds002-2015     30.00
++ds19          115.00 +ds005-2016     38.00
++ds21           25.51 +ds020-2017     43.00
++bonesp         23.34 +ds011-2018     29.00
++reunifica      30.68 +ds009-2019     30.00
++igv            17.25 +ds006-2020     30.00
+========================================================================
+T-REMUN      1,216.89 T-DSCTO        374.60  T-LIQUI       842.29
+MImponible   1,151.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000047
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024668633-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : JARA PEREZ
+Nombres                      : CLARA LUZ MARINA
+Fecha de Nacimiento          : 12/08/1947
+Documento de Identidad       : (Lib.Electoral o D.N.) 24668633
+Cargo                        : COORD. DE OBE
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 4/0-0/40
+Tiempo de Servicio (AA-MM-DD): 20-06-12 ESSALUD : 4708120JAPEC009
+Fecha de Registro            : Cese :25/04/1977 Termino:25/04/1977
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221369233
+Leyenda Permanente           : DJS. 1-4585 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       19.30
++personal        0.02 +du073          85.38
++ael25671       60.00 +du011          99.04
++aeds081        70.00 +ds017          50.00
++tph            30.67 +ds004-13       25.00
++familiar        3.00 +ds003-2014     27.00
++du080          70.52 +ds002-2015     30.00
++refmov          5.00 +ds005-2016     38.00
++du90           73.60 +ds020-2017     43.00
++ds19          116.00 +ds011-2018     29.00
++ds21           20.10 +ds009-2019     30.00
++bonesp         22.51 +ds006-2020     30.00
++reunifica      25.58 -ipss           40.40
++igv            17.25
+========================================================================
+T-REMUN      1,069.97 T-DSCTO         40.40  T-LIQUI     1,029.57
+MImponible   1,010.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000048
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024867125-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : JIMENEZ CHALLERI
+Nombres                      : JACINTO
+Fecha de Nacimiento          : 09/01/1945
+Documento de Identidad       : (Lib.Electoral o D.N.) 24867125
+Cargo                        : SUPERV.PROG.SECT.
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE ADM. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 0/F-2/40
+Tiempo de Servicio (AA-MM-DD): 32-09-21 ESSALUD : 4501091JECIJ003
+Fecha de Registro            : Cese :01/05/1966 Termino:01/05/1966
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221366803
+Leyenda Permanente           : DJS. 1-4128 ESPINAR  2006    DU. 03
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       26.06
++personal        0.04 +du073         104.44
++ael25671       60.00 +dl817          40.00
++aeds081        60.00 +du011         121.16
++tph            42.30 +du037         360.00
++familiar        3.00 +ds031-11       25.00
++du080         115.00 +ds024-12       25.00
++refmov          5.00 +ds004-13       25.00
++du90           90.04 +ds003-2014     27.00
++ds21           31.95 +ds002-2015     30.00
++bondirct        5.21 +ds005-2016     38.00
++bonesp         30.40 +ds006-2020     30.00
++reunifica      36.47 -ipss           39.56
++igv            17.25 -subcafae      661.51
+========================================================================
+T-REMUN      1,398.32 T-DSCTO        701.07  T-LIQUI       697.25
+MImponible     989.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000049
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024863267-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : LAZARTE NUÑONCA
+Nombres                      : RUFO ABRAHAN
+Fecha de Nacimiento          : 01/08/1944
+Documento de Identidad       : (Lib.Electoral o D.N.) 24863267
+Cargo                        : ESP.EDUC. I
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE ADM. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 0/F-1/40
+Tiempo de Servicio (AA-MM-DD): 32-10-00 ESSALUD : 4408011LANOR005
+Fecha de Registro            : Cese :01/03/1971 Termino:01/03/1971
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221358282
+Leyenda Permanente           : DJS. 1-4466 ESPINAR  2006 DU.01-201
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +du011         167.84
++personal        0.04 +ds077          20.00
++ael25671       60.00 +ds031-11       25.00
++aeds081        70.00 +Ley29702      350.00
++tph            42.30 +ds024-12       25.00
++familiar        4.00 +ds004-13       25.00
++du080         144.00 +ds003-2014     27.00
++refmov          5.00 +ds002-2015     30.00
++du90          124.73 +ds005-2016     38.00
++ds21           24.90 +ds006-2020     30.00
++bonesp         29.41 -ipss           43.80
++reunifica      32.62
++igv            17.25
++du073         144.69
+========================================================================
+T-REMUN      1,486.78 T-DSCTO         43.80  T-LIQUI     1,442.98
+MImponible   1,095.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000050
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      8000010913-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : LOVON DE GUEVARA
+Nombres                      : RUTH AMPARO
+Fecha de Nacimiento          : 29/04/1949
+Documento de Identidad       : (Lib.Electoral o D.N.) 24888299
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: B/0-0/30
+Tiempo de Servicio (AA-MM-DD): 25-00-10 ESSALUD :
+Fecha de Registro            : Cese :25/05/1979 Termino:25/05/1979
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221368458
+Leyenda Permanente           : DJS. 1-1216 ESPINAR 2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       16.99
++personal        0.02 +du073          82.75
++ael25671       60.00 +du011          95.98
++aeds081        60.00 +ds017         100.00
++tph            21.75 +ds002-2015     30.00
++familiar        3.00 +ds005-2016     38.00
++du080         113.00 +ds020-2017     43.00
++refmov          5.00 +ds011-2018     29.00
++du90           71.33 +ds009-2019     30.00
++ds19           90.00 +ds006-2020     30.00
++ds21           14.99 -ipss           39.88
++bonesp         16.99 -prderrmag     459.45
++reunifica      26.83
++igv            17.25
+========================================================================
+T-REMUN      1,045.88 T-DSCTO        499.33  T-LIQUI       546.55
+MImponible     997.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000051
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024874311-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : LOVON TORRES
+Nombres                      : EDUARDO
+Fecha de Nacimiento          : 12/10/1944
+Documento de Identidad       : (Lib.Electoral o D.N.) 24874311
+Cargo                        : PROF. POR HORA
+Tipo de Pensionista          : CESANTE PENSIóN PROVISIONAL
+Tipo de Pension              : CESANTE DOC NO NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: D/0-0/24
+Tiempo de Servicio (AA-MM-DD): 00-00-00 ESSALUD : 4410121LOTRE007
+Fecha de Registro            : Cese :01/08/1975 Termino:01/08/1975
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359009
+Leyenda Permanente           : RD Nª 0551-14 UGEL -E-PENSION PROV.
+Leyenda Mensual              :
+
+
+
+========================================================================
++P_DL20530     674.00
++ds002-2015     30.00
++ds005-2016     38.00
++ds020-2017     43.00
++ds011-2018     29.00
++ds009-2019     30.00
++ds006-2020     30.00
+-ipss           34.96
+-subcafae      394.79
+
+
+
+
+
+========================================================================
+T-REMUN        874.00 T-DSCTO        429.75  T-LIQUI       444.25
+MImponible     874.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000052
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024860345-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : LUNA LLAIQUE
+Nombres                      : ANDRES AVELINO
+Fecha de Nacimiento          : 12/11/1943
+Documento de Identidad       : (Lib.Electoral o D.N.) 24860345
+Cargo                        : PROGRAMADOR
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/F-3/40
+Tiempo de Servicio (AA-MM-DD): 30-00-06 ESSALUD : 4311121LALIA002
+Fecha de Registro            : Cese :01/04/1969 Termino:01/04/1969
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221366633
+Leyenda Permanente           : DJS. 1-4333 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +du073         125.99  +ds006-2020     30.00
++personal        0.04 +du011         143.16  -ipss           45.00
++ael25671       60.00 +du037         370.00
++aeds081        70.00 +ds014          15.00
++tph            42.30 +ds077          20.00
++familiar        3.00 +ds031-11       25.00
++du080         115.00 +ds024-12       25.00
++refmov          5.00 +ds004-13       25.00
++du90          108.62 +ds003-2014     27.00
++ds21           30.00 +ds002-2015     30.00
++bonesp         31.10 +ds005-2016     38.00
++reunifica      38.45 +ds020-2017     43.00
++igv            17.25 +ds011-2018     29.00
++difpensi       26.66 +ds009-2019     30.00
+========================================================================
+T-REMUN      1,573.57 T-DSCTO         45.00  T-LIQUI     1,528.57
+MImponible   1,125.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000053
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024867491-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : MACUAGA SENCIA
+Nombres                      : ROSA CLEOFE
+Fecha de Nacimiento          : 01/10/1953
+Documento de Identidad       : (Lib.Electoral o D.N.) 24867491
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 3/0-0/30
+Tiempo de Servicio (AA-MM-DD): 25-02-12 ESSALUD :
+Fecha de Registro            : Cese :01/10/2005 Termino:01/10/2005
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359637
+Leyenda Permanente           : DJS. 1-4688 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       20.85
++personal        0.03 +du073          97.72
++ael25671       60.00 +du011         113.36
++aeds081        70.00 +ds009-2019     30.00
++tph            31.75 +ds006-2020     30.00
++familiar        3.00 -ipss           34.76
++du080         134.00
++refmov          5.00
++du90           84.24
++ds19          109.00
++ds21           25.07
++bonesp         20.85
++reunifica      29.65
++igv            17.25
+========================================================================
+T-REMUN        931.77 T-DSCTO         34.76  T-LIQUI       897.01
+MImponible     869.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000054
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      8000010915-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : MAQQUERA HILARIO
+Nombres                      : CEFERINO
+Fecha de Nacimiento          : 26/08/1955
+Documento de Identidad       : (Lib.Electoral o D.N.) 24883337
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: E/0-0/30
+Tiempo de Servicio (AA-MM-DD): 20-10-24 ESSALUD :
+Fecha de Registro            : Cese :15/09/1980 Termino:15/09/1980
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359866
+Leyenda Permanente           : DJS. 1-4904 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       11.85
++personal        0.01 +du073          54.04
++ael25671       60.00 +du011          62.69
++aeds081        60.00 +ds017         100.00
++tph            14.06 -ipss           23.40
++familiar        3.00
++du080          10.83
++refmov          5.00
++du90           46.59
++ds19           90.00
++ds21            1.75
++bonesp         11.85
++reunifica      17.42
++igv            17.25
+========================================================================
+T-REMUN        616.34 T-DSCTO         23.40  T-LIQUI       592.94
+MImponible     585.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000055
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024863253-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : MEDINA ZINANYUCA
+Nombres                      : FELIX OCTAVIO
+Fecha de Nacimiento          : 06/03/1949
+Documento de Identidad       : (Lib.Electoral o D.N.) 24863253
+Cargo                        : PROF. POR HORA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 3/0-0/24
+Tiempo de Servicio (AA-MM-DD): 00-00-00 ESSALUD : 4903061MIZAF002
+Fecha de Registro            : Cese :30/10/2010 Termino:30/10/2010
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359548
+Leyenda Permanente           : CESE VOLUNTARIO res.259*2-11-ONP pe
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       19.80
++personal        0.03 +du073          92.53
++ael25671       60.00 +du011         107.34
++aeds081        70.00 +ds002-2015     30.00
++tph            30.30 +ds005-2016     38.00
++familiar        3.00 +ds020-2017     43.00
++du080         127.00 +ds011-2018     29.00
++refmov          5.00 +ds009-2019     30.00
++du90           79.77 +ds006-2020     30.00
++ds19          105.00 -ipss           48.80
++ds21           13.69
++bonesp        242.50
++reunifica      27.62
++igv            17.25
+========================================================================
+T-REMUN      1,250.83 T-DSCTO         48.80  T-LIQUI     1,202.03
+MImponible   1,220.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000056
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024865255-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : MEDINA ZINANYUCA
+Nombres                      : MIGUEL ANGEL
+Fecha de Nacimiento          : 28/09/1946
+Documento de Identidad       : (Lib.Electoral o D.N.) 24865255
+Cargo                        : DIRECTOR C.E
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/40
+Tiempo de Servicio (AA-MM-DD): 30-00-00 ESSALUD : 4609281MIZAM005
+Fecha de Registro            : Cese :24/05/1976 Termino:24/05/1976
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221368466
+Leyenda Permanente           : RD. 0028-13. CONT BONESP.01/12/2013
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +igv            17.25  -ipss           54.92
++personal        0.04 +difpensi       24.90  -subcafae       10.00
++ael25671       60.00 +du073         107.30
++aeds081        70.00 +dl817         215.00
++tph            42.30 +du011         124.47
++familiar        3.00 +ds024-12       25.00
++du080         144.00 +ds004-13       25.00
++refmov          5.00 +ds003-2014     27.00
++du90           92.50 +ds002-2015     30.00
++ds19          120.00 +ds005-2016     38.00
++ds21           24.90 +ds020-2017     43.00
++bondirct        4.98 +ds011-2018     29.00
++bonesp        326.19 +ds009-2019     30.00
++reunifica      32.62 +ds006-2020     30.00
+========================================================================
+T-REMUN      1,741.45 T-DSCTO         64.92  T-LIQUI     1,676.53
+MImponible   1,373.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000057
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1029393992-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : MEJIA SAMANEZ
+Nombres                      : ELSA MARIA
+Fecha de Nacimiento          : 21/05/1947
+Documento de Identidad       : (Lib.Electoral o D.N.) 29393992
+Cargo                        : DIRECTOR C.E
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/40
+Tiempo de Servicio (AA-MM-DD): 29-03-03 ESSALUD : 4705210MISAE003
+Fecha de Registro            : Cese :20/06/1975 Termino:20/06/1975
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221368474
+Leyenda Permanente           : DJS. 1-1217 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +igv            17.25
++personal        0.04 +difpensi       24.90
++ael25671       60.00 +du073         107.30
++aeds081        70.00 +du011         127.47
++tph            42.30 +ds004-13       25.00
++familiar        3.00 +ds003-2014     27.00
++du080         144.00 +ds002-2015     30.00
++refmov          5.00 +ds005-2016     38.00
++du90           92.50 +ds020-2017     43.00
++ds19          120.00 +ds011-2018     29.00
++ds21           24.90 +ds009-2019     30.00
++bondirct        4.98 +ds006-2020     30.00
++bonesp         29.06 -ipss           45.44
++reunifica      32.62
+========================================================================
+T-REMUN      1,207.32 T-DSCTO         45.44  T-LIQUI     1,161.88
+MImponible   1,136.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000058
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024860165-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : MENDIGURE ROQUE
+Nombres                      : JUSTA RUFINA
+Fecha de Nacimiento          : 19/07/1949
+Documento de Identidad       : (Lib.Electoral o D.N.) 24860165
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/30
+Tiempo de Servicio (AA-MM-DD): 22-10-14 ESSALUD : 4907190MDRUJ005
+Fecha de Registro            : Cese :16/03/1976 Termino:16/03/1976
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221367168
+Leyenda Permanente           : DJS. 1-4402 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       22.18
++personal        0.03 +du073          95.23
++ael25671       60.00 +du011         110.47
++aeds081        70.00 +ds002-2015     30.00
++tph            36.85 +ds005-2016     38.00
++familiar        3.00 +ds020-2017     43.00
++du080         108.46 +ds011-2018     29.00
++refmov          5.00 +ds009-2019     30.00
++du90           82.10 +ds006-2020     30.00
++ds19          115.00 -ipss           39.48
++ds21           24.10
++bonesp        259.72
++reunifica      28.99
++igv            17.25
+========================================================================
+T-REMUN      1,288.38 T-DSCTO         39.48  T-LIQUI     1,248.90
+MImponible     987.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000059
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024678031-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : MONTESINOS DE LOVON
+Nombres                      : LILIA MERCEDES
+Fecha de Nacimiento          : 24/01/1950
+Documento de Identidad       : (Lib.Electoral o D.N.) 24678031
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./G.Ocup./Horas/HrsAdd: C/0-0/30
+Tiempo de Servicio (AA-MM-DD): 29-09-07 ESSALUD : 000000000000000
+Fecha de Registro            : Cese :30/09/2009 Termino:30/09/2009
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221358851
+Leyenda Permanente           : RD. 710 - 09  CESA AP. 01/10/2009
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         45.00 +difpensi       15.15
++personal        0.02 +du073          80.99
++ael25671       54.00 +du011          93.95
++aeds081        54.00 +ds005-2016     38.00
++tph            19.13 +ds020-2017     43.00
++familiar        2.70 +ds011-2018     29.00
++du080         100.80 +ds009-2019     30.00
++refmov          4.50 +ds006-2020     30.00
++du90           69.82 -ipss           33.20
++ds19           81.00 -subcafae      387.61
++ds21            9.76 -prderrmag      23.60
++bonesp         15.15
++reunifica      24.11
++igv            15.53
+========================================================================
+T-REMUN        855.61 T-DSCTO        444.41  T-LIQUI       411.20
+MImponible     830.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000060
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024893836-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : MUÑOZ CASTRO
+Nombres                      : MAURO
+Fecha de Nacimiento          : 20/09/1942
+Documento de Identidad       : (Lib.Electoral o D.N.) 24893836
+Cargo                        : ESP.FINANZAS
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/F-3/40
+Tiempo de Servicio (AA-MM-DD): 30-00-18 ESSALUD : 4209201MOCTM005
+Fecha de Registro            : Cese :15/06/1965 Termino:15/06/1965
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221366676
+Leyenda Permanente           : DJS. 1-4427 ESPINAR  2006, rd 117-1
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +du073         150.12  +ds009-2019     30.00
++personal        0.04 +du011         174.14  +ds006-2020     30.00
++ael25671       60.00 +du037         370.00  -ipss           62.72
++aeds081        70.00 +ds120          15.00
++tph            42.30 +ds014          15.00
++familiar        3.00 +ds077          20.00
++du080         115.00 +ds031-11       25.00
++refmov          5.00 +ds024-12       25.00
++du90          129.42 +ds004-13       25.00
++ds21           30.00 +ds003-2014     27.00
++bonesp         31.10 +ds002-2015     30.00
++reunifica      38.45 +ds005-2016     38.00
++igv            17.25 +ds020-2017     43.00
++difpensi      378.08 +ds011-2018     29.00
+========================================================================
+T-REMUN      2,015.90 T-DSCTO         62.72  T-LIQUI     1,953.18
+MImponible   1,568.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000061
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024883281-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : NUÑONCCA TACO
+Nombres                      : GREGORIO
+Fecha de Nacimiento          : 01/01/1938
+Documento de Identidad       : (Lib.Electoral o D.N.) 24883281
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/30
+Tiempo de Servicio (AA-MM-DD): 30-04-00 ESSALUD : 3801011NOTOG001
+Fecha de Registro            : Cese :01/04/1975 Termino:01/04/1975
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221358762
+Leyenda Permanente           : DJS. 1-4329 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +art18           1.30  +ds002-2015     30.00
++personal        0.04 +difpensi       24.00  +ds005-2016     38.00
++ael25671       60.00 +du073         103.98  +ds020-2017     43.00
++aeds081        70.00 +du011         120.61  +ds011-2018     29.00
++tph            40.35 +ds016          15.43  +ds009-2019     30.00
++familiar        3.00 +ds110           6.90  +ds006-2020     30.00
++du080         142.00 +ds039          10.00  -ipss           49.64
++refmov          5.00 +ds120          15.00
++du90           89.63 +ds014          15.00
++ds19          115.00 +ds077          20.00
++ds21           26.39 +ds031-11       25.00
++bonesp         24.06 +ds024-12       25.00
++reunifica      31.74 +ds004-13       25.00
++igv            17.25 +ds003-2014     27.00
+========================================================================
+T-REMUN      1,308.68 T-DSCTO         49.64  T-LIQUI     1,259.04
+MImponible   1,241.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000062
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024860064-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : PACO HUILLCA
+Nombres                      : FRANCISCO DONATO
+Fecha de Nacimiento          : 04/06/1953
+Documento de Identidad       : (Lib.Electoral o D.N.) 24860064
+Cargo                        : PROF. POR HORA
+Tipo de Pensionista          : CESANTE PENSIóN PROVISIONAL
+Tipo de Pension              : CESANTE DOC NO NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 2/0-0/24
+Tiempo de Servicio (AA-MM-DD): 00-00-00 ESSALUD : 5306041POHLF004
+Fecha de Registro            : Cese :03/03/1980 Termino:03/03/1980
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359572
+Leyenda Permanente           : PENS. DEFINITIVA 01/05/2015
+Leyenda Mensual              :
+
+
+
+========================================================================
++P_DL20530   1,029.13
++ds009-2019     30.00
++ds006-2020     30.00
+-ipss           43.56
+
+
+
+
+
+
+
+
+
+
+========================================================================
+T-REMUN      1,089.13 T-DSCTO         43.56  T-LIQUI     1,045.57
+MImponible   1,089.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000063
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024869658-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : PPACCO NUÑONCA
+Nombres                      : LEON FRANCISCO
+Fecha de Nacimiento          : 25/07/1955
+Documento de Identidad       : (Lib.Electoral o D.N.) 24869658
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 3/0-/30
+Tiempo de Servicio (AA-MM-DD): 00-00-00 ESSALUD : 5507251PCNOL002
+Fecha de Registro            : Cese :30/04/2011 Termino:30/04/2011
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359602
+Leyenda Permanente           : RD.0772-12. BONRSP.01/12/2013
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +du073          97.00
++personal        0.03 +du011         112.52
++ael25671       60.00 -ipss           50.96
++aeds081        70.00
++tph            31.75
++du080         134.00
++refmov          5.00
++du90           83.62
++ds19          109.00
++ds21           25.07
++bonesp        225.33
++reunifica      29.65
++igv            17.25
++difpensi      266.13
+========================================================================
+T-REMUN      1,316.35 T-DSCTO         50.96  T-LIQUI     1,265.39
+MImponible   1,274.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000064
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024876860-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : QUISPE CHARA
+Nombres                      : MARTIN
+Fecha de Nacimiento          : 01/01/1939
+Documento de Identidad       : (Lib.Electoral o D.N.) 24876860
+Cargo                        : DIRECTOR C.E
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 3/0-0/40
+Tiempo de Servicio (AA-MM-DD): 30-00-00 ESSALUD : 000000000000000
+Fecha de Registro            : Cese :01/08/2007 Termino:01/08/2007
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359742
+Leyenda Permanente           : RD.334-07 CESA AP. DEL 01/08/2007
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +igv            17.25  +ds011-2018     29.00
++personal        0.04 +difpensi       21.58  +ds009-2019     30.00
++ael25671       60.00 +du073         109.81  +ds006-2020     30.00
++aeds081        70.00 +du011         116.94  -ipss           47.68
++tph            33.20 +ds120          15.00
++familiar        3.00 +ds014          15.00
++du080         136.00 +ds077          20.00
++refmov          5.00 +ds031-11       25.00
++du90           86.90 +ds024-12       25.00
++ds19          113.00 +ds004-13       25.00
++ds21           24.18 +ds003-2014     27.00
++bondirct        4.31 +ds002-2015     30.00
++bonesp         25.12 +ds005-2016     38.00
++reunifica      30.47 +ds020-2017     43.00
+========================================================================
+T-REMUN      1,258.80 T-DSCTO         47.68  T-LIQUI     1,211.12
+MImponible   1,192.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000065
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024893679-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : RODRIGUEZ MERMA
+Nombres                      : VIDAL
+Fecha de Nacimiento          : 04/10/1951
+Documento de Identidad       : (Lib.Electoral o D.N.) 24893679
+Cargo                        : ESP.EDUC. I
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : SIN INFORMACI¾N
+Niv.Mag./G.Ocup./Horas/HrsAdd: 4/F-1/40
+Tiempo de Servicio (AA-MM-DD): 30-00-00 ESSALUD : 5110041RRMMV005
+Fecha de Registro            : Cese :01/04/1977 Termino:01/04/1977
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359246
+Leyenda Permanente           : DJS. 1-0354 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       24.71
++personal        0.03 +du073          98.37
++ael25671       60.00 +du011         114.11
++aeds081        60.00 +du037         360.00
++tph            42.30 +ds006-2020     30.00
++familiar        3.00 -ipss           29.52
++du080         100.00
++refmov          5.00
++du90           84.81
++ds21           21.95
++bondirct        4.94
++bonesp         28.83
++reunifica      32.00
++igv            17.25
+========================================================================
+T-REMUN      1,137.30 T-DSCTO         29.52  T-LIQUI     1,107.78
+MImponible     738.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000066
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024883226-313004
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : SOTO ANDIA
+Nombres                      : ADRIAN GUILLERMO
+Fecha de Nacimiento          : 23/10/1954
+Documento de Identidad       : (Lib.Electoral o D.N.) 24883226
+Cargo                        : ESP.EDUC.
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 2/0-0/40
+Tiempo de Servicio (AA-MM-DD): 00-00-00 ESSALUD :
+Fecha de Registro            : Cese :31/12/2060 Termino:31/12/2060
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359440
+Leyenda Permanente           : rd n° 01760-UGEL-E-2019
+Leyenda Mensual              :
+
+
+
+========================================================================
++P_DL20530   1,640.75
++ds006-2020     30.00
+-ipss           66.84
+
+
+
+
+
+
+
+
+
+
+
+========================================================================
+T-REMUN      1,670.75 T-DSCTO         66.84  T-LIQUI     1,603.91
+MImponible   1,671.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000067
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024870137-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : SOTO ANDIA
+Nombres                      : JULIO GUILLERMO
+Fecha de Nacimiento          : 10/01/1959
+Documento de Identidad       : (Lib.Electoral o D.N.) 24870137
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: A/0-0/30
+Tiempo de Servicio (AA-MM-DD): 20-01-29 ESSALUD :
+Fecha de Registro            : Cese :11/09/1980 Termino:11/09/1980
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359858
+Leyenda Permanente           : DJS. 1-5206 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +du011          63.93
++personal        0.01 +ds017         100.00
++ael25671       60.00 -ipss           22.88
++aeds081        60.00 -subcafae      350.08
++tph            14.90
++du080           7.57
++refmov          5.00
++du90           47.51
++ds19           90.00
++ds21           12.82
++bonesp         11.38
++reunifica      17.99
++igv            17.25
++du073          55.11
+========================================================================
+T-REMUN        613.47 T-DSCTO        372.96  T-LIQUI       240.51
+MImponible     572.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000068
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024860316-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : TAIPE ROJAS
+Nombres                      : VICTOR
+Fecha de Nacimiento          : 07/06/1931
+Documento de Identidad       : (Lib.Electoral o D.N.) 24860316
+Cargo                        : DIRECTOR C.E
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/40
+Tiempo de Servicio (AA-MM-DD): 35-01-00 ESSALUD : 3106071TPRAV004
+Fecha de Registro            : Cese :25/07/1960 Termino:25/07/1960
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221367060
+Leyenda Permanente           : DJS. 1-4199 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +igv            17.25  +ds002-2015     30.00
++personal        0.05 +difpensi       24.91  +ds005-2016     38.00
++ael25671       60.00 +du073         107.30  +ds020-2017     43.00
++aeds081        70.00 +du011         124.47  +ds011-2018     29.00
++tph            42.30 +ds016          16.57  +ds009-2019     30.00
++familiar        3.00 +ds110           7.22  +ds006-2020     30.00
++du080         144.00 +ds039          10.00  -ipss           50.68
++refmov          5.00 +ds120          15.00
++du90           92.50 +ds014          15.00
++ds19          120.00 +ds077          20.00
++ds21           24.90 +ds031-11       25.00
++bondirct        4.98 +ds024-12       25.00
++bonesp         29.06 +ds004-13       25.00
++reunifica      32.62 +ds003-2014     27.00
+========================================================================
+T-REMUN      1,338.13 T-DSCTO         50.68  T-LIQUI     1,287.45
+MImponible   1,267.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000069
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024866454-313002
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : TUNQUIPA TUNQUIPA
+Nombres                      : SABINO
+Fecha de Nacimiento          : 20/10/1947
+Documento de Identidad       : (Lib.Electoral o D.N.) 24866454
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: E/0-0/30
+Tiempo de Servicio (AA-MM-DD): 31-05-08 ESSALUD :
+Fecha de Registro            : Cese :01/11/2004 Termino:01/11/2004
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221363111
+Leyenda Permanente           : DJS. 1-1218 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       16.02
++personal        0.02 +du073          78.55
++ael25671       60.00 +du011          91.11
++aeds081        60.00 +ds017         100.00
++tph            20.25 +ds004-13       25.00
++familiar        3.00 +ds003-2014     27.00
++du080         108.00 +ds002-2015     30.00
++refmov          5.00 +ds005-2016     38.00
++du90           67.71 +ds020-2017     43.00
++ds19           90.00 +ds011-2018     29.00
++ds21            2.52 +ds009-2019     30.00
++bonesp         16.02 +ds006-2020     30.00
++reunifica      25.09 -ipss           41.08
++igv            17.25 -subcafae      485.15
+========================================================================
+T-REMUN      1,062.54 T-DSCTO        526.23  T-LIQUI       536.31
+MImponible   1,027.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000070
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024877015-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : TUNY PAREJA
+Nombres                      : MATEO MARIO
+Fecha de Nacimiento          : 14/03/1944
+Documento de Identidad       : (Lib.Electoral o D.N.) 24877015
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/30
+Tiempo de Servicio (AA-MM-DD): 26-08-00 ESSALUD : 4403141TYPEM005
+Fecha de Registro            : Cese :02/05/1972 Termino:02/05/1972
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221367133
+Leyenda Permanente           : DJS. 1-4220 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       21.65  -ipss           43.60
++personal        0.03 +du073          92.83  -judicial      633.97
++ael25671       60.00 +du011         107.69
++aeds081        70.00 +ds077          20.00
++tph            35.87 +ds031-11       25.00
++familiar        3.00 +ds024-12       25.00
++du080          99.00 +ds004-13       25.00
++refmov          5.00 +ds003-2014     27.00
++du90           80.03 +ds002-2015     30.00
++ds19          115.00 +ds005-2016     38.00
++ds21           23.46 +ds020-2017     43.00
++bonesp         21.65 +ds011-2018     29.00
++reunifica      28.21 +ds009-2019     30.00
++igv            17.25 +ds006-2020     30.00
+========================================================================
+T-REMUN      1,152.67 T-DSCTO        677.57  T-LIQUI       475.10
+MImponible   1,090.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000071
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024863799-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : UMIYAURI PANOCCA
+Nombres                      : GREGORIO
+Fecha de Nacimiento          : 12/03/1951
+Documento de Identidad       : (Lib.Electoral o D.N.) 24863799
+Cargo                        : DIRECTOR C.E
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 2/0-0/40
+Tiempo de Servicio (AA-MM-DD): 30-01-24 ESSALUD :
+Fecha de Registro            : Cese :01/07/2006 Termino:01/07/2006
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221358991
+Leyenda Permanente           : DJS. 1-4317 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       20.43
++personal        0.03 +du073          97.55
++ael25671       60.00 +du011         113.16
++aeds081        70.00 +ds020-2017     43.00
++tph            30.30 +ds011-2018     29.00
++du080         133.00 +ds009-2019     30.00
++refmov          5.00 +ds006-2020     30.00
++du90           84.10 -ipss           54.72
++ds19          110.00 -subcafae      495.89
++ds21           23.10
++bondirct        3.91
++bonesp        428.64
++reunifica      29.74
++igv            17.25
+========================================================================
+T-REMUN      1,408.21 T-DSCTO        550.61  T-LIQUI       857.60
+MImponible   1,368.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000072
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024865065-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : VILCA HUANCA
+Nombres                      : ELENA JULIA
+Fecha de Nacimiento          : 06/02/1945
+Documento de Identidad       : (Lib.Electoral o D.N.) 24865065
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 3/0-0/30
+Tiempo de Servicio (AA-MM-DD): 25-00-00 ESSALUD : 4502060VCHNE004
+Fecha de Registro            : Cese :28/08/1978 Termino:28/08/1978
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221358800
+Leyenda Permanente           : RD. 1143-12. BONESP. 01/12/2013 + r
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +art18         215.00  -ipss           53.04
++personal        0.03 +difpensi       20.85  -subcafae        5.00
++ael25671       60.00 +du073          97.71
++aeds081        70.00 +du011         113.35
++tph            31.75 +ds031-11       25.00
++familiar        3.00 +ds024-12       25.00
++du080         134.00 +ds004-13       25.00
++refmov          5.00 +ds003-2014     27.00
++du90           84.24 +ds002-2015     30.00
++ds19          109.00 +ds005-2016     38.00
++ds21           25.07 +ds020-2017     43.00
++bonesp        279.59 +ds011-2018     29.00
++reunifica      29.65 +ds009-2019     30.00
++igv            17.25 +ds006-2020     30.00
+========================================================================
+T-REMUN      1,647.49 T-DSCTO         58.04  T-LIQUI     1,589.45
+MImponible   1,326.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000073
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024003750-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : VILLANUEVA CABRERA
+Nombres                      : FELIX MIGUEL
+Fecha de Nacimiento          : 02/05/1952
+Documento de Identidad       : (Lib.Electoral o D.N.) 24003750
+Cargo                        : PROF. POR HORA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 4/0-0/24
+Tiempo de Servicio (AA-MM-DD): 30-00-00 ESSALUD : 5205021VLCRF009
+Fecha de Registro            : Cese :18/03/1976 Termino:18/03/1976
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221368563
+Leyenda Permanente           : DJS. 1-0258 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       21.15
++personal        0.04 +du073          94.82
++ael25671       60.00 +du011         109.99
++aeds081        70.00 +ds011-2018     29.00
++tph            34.50 +ds009-2019     30.00
++familiar        3.00 +ds006-2020     30.00
++du080         130.00 -ipss           35.40
++refmov          5.00
++du90           81.72
++ds19          108.00
++ds21           12.84
++bonesp        226.71
++reunifica      27.90
++igv            17.25
+========================================================================
+T-REMUN      1,141.92 T-DSCTO         35.40  T-LIQUI     1,106.52
+MImponible     885.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000074
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024700754-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : VILLANUEVA SANCHEZ
+Nombres                      : URIEL
+Fecha de Nacimiento          : 24/03/1944
+Documento de Identidad       : (Lib.Electoral o D.N.) 24700754
+Cargo                        : PROF. POR HORA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/24
+Tiempo de Servicio (AA-MM-DD): 25-01-23 ESSALUD : 4403241VLSCU002
+Fecha de Registro            : Cese :26/07/1974 Termino:26/07/1974
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221367176
+Leyenda Permanente           : DJS. 1-4586 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       18.89  +ds006-2020     30.00
++personal        0.03 +du073          82.03  -ipss           44.56
++ael25671       60.00 +du011          95.15
++aeds081        70.00 +ds017         100.00
++tph            31.27 +ds077          20.00
++familiar        3.00 +ds031-11       25.00
++du080          71.87 +ds024-12       25.00
++refmov          5.00 +ds004-13       25.00
++du90           70.71 +ds003-2014     27.00
++ds19          110.00 +ds002-2015     30.00
++ds21           12.09 +ds005-2016     38.00
++bonesp         18.89 +ds020-2017     43.00
++reunifica      23.61 +ds011-2018     29.00
++igv            17.25 +ds009-2019     30.00
+========================================================================
+T-REMUN      1,161.79 T-DSCTO         44.56  T-LIQUI     1,117.23
+MImponible   1,114.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000075
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024861858-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : WAGNER DE CORONADO
+Nombres                      : BACILIZA
+Fecha de Nacimiento          : 09/11/1945
+Documento de Identidad       : (Lib.Electoral o D.N.) 24861858
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/40
+Tiempo de Servicio (AA-MM-DD): 25-02-15 ESSALUD : 4511010WNCIB004
+Fecha de Registro            : Cese :07/07/1969 Termino:07/07/1969
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221366811
+Leyenda Permanente           : DJS. 1-4306 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       24.91
++personal        0.04 +du073         106.38
++ael25671       60.00 +du011         123.40
++aeds081        70.00 +ds031-11       25.00
++tph            42.30 +ds024-12       25.00
++familiar        3.00 +ds004-13       25.00
++du080         144.00 +ds003-2014     27.00
++refmov          5.00 +ds002-2015     30.00
++du90           91.70 +ds005-2016     38.00
++ds19          120.00 +ds020-2017     43.00
++ds21           24.90 +ds011-2018     29.00
++bonesp         29.06 +ds009-2019     30.00
++reunifica      32.62 +ds006-2020     30.00
++igv            17.25 -ipss           47.00
+========================================================================
+T-REMUN      1,246.56 T-DSCTO         47.00  T-LIQUI     1,199.56
+MImponible   1,175.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000076
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1021442374-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : YARASCA JUNES
+Nombres                      : SERAPIO TEODORO
+Fecha de Nacimiento          : 14/11/1945
+Documento de Identidad       : (Lib.Electoral o D.N.) 21442374
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 4/0-0/30
+Tiempo de Servicio (AA-MM-DD): 30-04-18 ESSALUD : 4511141YAJES002
+Fecha de Registro            : Cese :19/09/1974 Termino:19/09/1974
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359076
+Leyenda Permanente           : DJS. 1-4396 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       22.46
++personal        0.04 +du073         100.36
++ael25671       60.00 +du011         116.42
++aeds081        70.00 +ds031-11       25.00
++tph            36.45 +ds024-12       25.00
++familiar        3.00 +ds004-13       25.00
++du080         137.00 +ds003-2014     27.00
++refmov          5.00 +ds002-2015     30.00
++du90           86.52 +ds005-2016     38.00
++ds19          112.00 +ds020-2017     43.00
++ds21           24.73 +ds011-2018     29.00
++bonesp         22.46 +ds009-2019     30.00
++reunifica      30.31 +ds006-2020     30.00
++igv            17.25 -ipss           45.28
+========================================================================
+T-REMUN      1,196.00 T-DSCTO         45.28  T-LIQUI     1,150.72
+MImponible   1,132.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000077
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024863938-313003
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : YAURI HILARIO
+Nombres                      : PERCY ANSELMO
+Fecha de Nacimiento          : 21/04/1948
+Documento de Identidad       : (Lib.Electoral o D.N.) 24863938
+Cargo                        : DIRECTOR C.E
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : PENSI¾N CESANTIA DOCENTE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 3/0-0/40
+Tiempo de Servicio (AA-MM-DD): 00-00-00 ESSALUD : 4804211YRHAP009
+Fecha de Registro            : Cese :30/10/2010 Termino:30/10/2010
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221359483
+Leyenda Permanente           : CESE VOLUNTARIO AL 30-10-10 RES.242
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       20.84
++personal        0.03 +du073         111.81
++ael25671       60.00 +du011         129.70
++aeds081        70.00 +ds003-2014     27.00
++tph            33.20 +ds002-2015     30.00
++familiar        3.00 +ds005-2016     38.00
++du080         136.00 +ds020-2017     43.00
++refmov          5.00 +ds011-2018     29.00
++du90           96.39 +ds009-2019     30.00
++ds19          113.00 +ds006-2020     30.00
++ds21           24.18 -ipss           56.08
++bonesp        315.30
++reunifica      30.47
++igv            17.25
+========================================================================
+T-REMUN      1,443.17 T-DSCTO         56.08  T-LIQUI     1,387.09
+MImponible   1,402.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000078
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024867025-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : YEPEZ URQUIZO
+Nombres                      : NAZARIO VICTOR
+Fecha de Nacimiento          : 21/11/1930
+Documento de Identidad       : (Lib.Electoral o D.N.) 24867025
+Cargo                        : DIRECTOR C.E
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/40
+Tiempo de Servicio (AA-MM-DD): 38-04-11 ESSALUD : 3011211YEUUN008
+Fecha de Registro            : Cese :01/04/1957 Termino:01/04/1957
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221366730
+Leyenda Permanente           : DJS. 1-4478 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +igv            17.25  +ds002-2015     30.00
++personal        0.05 +difpensi       24.91  +ds005-2016     38.00
++ael25671       60.00 +du073         107.30  +ds020-2017     43.00
++aeds081        70.00 +du011         124.47  +ds011-2018     29.00
++tph            42.30 +ds016          16.57  +ds009-2019     30.00
++familiar        3.00 +ds110           7.22  +ds006-2020     30.00
++du080         144.00 +ds039          10.00  -ipss           50.68
++refmov          5.00 +ds120          15.00
++du90           92.50 +ds014          15.00
++ds19          120.00 +ds077          20.00
++ds21           24.90 +ds031-11       25.00
++bondirct        4.98 +ds024-12       25.00
++bonesp        397.36 +ds004-13       25.00
++reunifica      32.62 +ds003-2014     27.00
+========================================================================
+T-REMUN      1,706.43 T-DSCTO         50.68  T-LIQUI     1,655.75
+MImponible   1,267.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000079
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024695609-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : YUCA JIHUALLANCA
+Nombres                      : SOFIA
+Fecha de Nacimiento          : 20/02/1953
+Documento de Identidad       : (Lib.Electoral o D.N.) 24695609
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 2/0-0/30
+Tiempo de Servicio (AA-MM-DD): 27-02-08 ESSALUD : 5302200YAJUS009
+Fecha de Registro            : Cese :19/04/1975 Termino:19/04/1975
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221368326
+Leyenda Permanente           : DJS. 1-4316 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +du073          91.76
++personal        0.03 +du011         106.44
++ael25671       60.00 +ds009-2019     30.00
++aeds081        70.00 +ds006-2020     30.00
++tph            28.85 -ipss           32.80
++familiar        3.00 -subcafae      393.01
++du080         131.00
++refmov          5.00
++du90           79.10
++ds19          106.00
++ds21           24.03
++bonesp         19.87
++reunifica      29.29
++igv            17.25
+========================================================================
+T-REMUN        881.62 T-DSCTO        425.81  T-LIQUI       455.81
+MImponible     820.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000080
+.
+
+DRE CUSCO                                               FD10B101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      8000010916-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : ZANS DE INCA
+Nombres                      : SILVIA
+Fecha de Nacimiento          : 25/09/1935
+Documento de Identidad       : (Lib.Electoral o D.N.) 24864507
+Cargo                        : DIRECTOR C.E
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC. NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: 5/0-0/40
+Tiempo de Servicio (AA-MM-DD): 25-05-05 ESSALUD : 3509250ZSCDS005
+Fecha de Registro            : Cese :01/07/1958 Termino:01/07/1958
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221366749
+Leyenda Permanente           : DJS. 1-4304 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00 +difpensi       24.01  +ds005-2016     38.00
++personal        0.04 +du073         106.35  +ds020-2017     43.00
++ael25671       60.00 +du011         123.36  +ds011-2018     29.00
++aeds081        70.00 +ds016          16.43  +ds009-2019     30.00
++tph            42.30 +ds110           7.16  +ds006-2020     30.00
++du080         144.00 +ds039          10.00  -ipss           50.40
++refmov          5.00 +ds120          15.00
++du90           91.68 +ds014          15.00
++ds19          120.00 +ds077          20.00
++ds21           24.90 +ds031-11       25.00
++bondirct        4.80 +ds024-12       25.00
++bonesp         28.01 +ds004-13       25.00
++reunifica      32.62 +ds003-2014     27.00
++igv            17.25 +ds002-2015     30.00
+========================================================================
+T-REMUN      1,329.91 T-DSCTO         50.40  T-LIQUI     1,279.51
+MImponible   1,260.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000081
+.
+
+DRE CUSCO                                               FDNNB101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024863393-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : FLOREZ CUTIRI
+Nombres                      : LUIS
+Fecha de Nacimiento          : 21/06/1957
+Documento de Identidad       : (Lib.Electoral o D.N.) 24863393
+Cargo                        : PROF. POR HORA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC NO NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: C/0-0/24
+Tiempo de Servicio (AA-MM-DD): 14-08-17 ESSALUD : 5706211FRCIL009
+Fecha de Registro            : Cese :05/09/1979 Termino:05/09/1979
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221367230
+Leyenda Permanente           : DJS. 1-4480 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00
++tph           160.00
++du90           25.60
++du073          29.70
++du011          34.45
++ds017         115.25
+-ipss           16.60
+
+
+
+
+
+
+
+========================================================================
+T-REMUN        415.00 T-DSCTO         16.60  T-LIQUI       398.40
+MImponible     415.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000082
+.
+
+DRE CUSCO                                               FDNNB101-
+*FD UGE ESPINAR
+RUC - 20564239233                                      1024867487-313001
+JUNIO  -  2020  CES/TIT                                   (4) Habilitado
+
+Apellidos                    : PACO HUAHUACHAMPI
+Nombres                      : VALENTIN AVELINO
+Fecha de Nacimiento          : 16/12/1950
+Documento de Identidad       : (Lib.Electoral o D.N.) 24867487
+Cargo                        : PROF. DE AULA
+Tipo de Pensionista          : CESANTE
+Tipo de Pension              : CESANTE DOC NO NIVELABLE
+Niv.Mag./G.Ocup./Horas/HrsAdd: E/0-0/30
+Tiempo de Servicio (AA-MM-DD): 14-00-00 ESSALUD :
+Fecha de Registro            : Cese :01/04/1974 Termino:01/04/1974
+Cta. TeleAhorro o Nro. Cheque: CTA- 4221366994
+Leyenda Permanente           : DJS. 1-4708 ESPINAR  2006
+Leyenda Mensual              :
+
+
+
+========================================================================
++basica         50.00
++tph           160.00
++du90           25.60
++du073          29.70
++du011          34.45
++ds017         115.25
++ds005-2016     38.00
++ds020-2017     43.00
++ds011-2018     29.00
++ds009-2019     30.00
++ds006-2020     30.00
+-ipss           23.40
+
+
+========================================================================
+T-REMUN        585.00 T-DSCTO         23.40  T-LIQUI       561.60
+MImponible     585.00
+Mensajes  :
+Visite la pagina Web del Ministerio de Educación: www.minedu.gob.pe.
+
+
+
+
+                                                                00000083
+.

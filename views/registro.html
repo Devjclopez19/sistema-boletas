@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Login - Sistema Boletas</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Sistema de Boletas para la Ugel Espinar, consulte sus boletas aqui">
+    <meta name="keywords" content="Sistema de boletas ugeles, ugel sistema boletas">
+    <!-- Favicon icon -->
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <!-- Google font--><link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,800" rel="stylesheet">
+    <!-- Required Fremwork -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <!-- ico font -->
+    <link rel="stylesheet" type="text/css" href="css/icofont.css">
+    <!-- jpro forms css -->
+    <link rel="stylesheet" type="text/css" href="css/j-pro-modern.css">
+    <!-- Style.css -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+
+<body class="fix-menu">
+    <!-- Pre-loader start -->
+    <div class="theme-loader">
+        <div class="ball-scale">
+            <div class='contain'>
+                <div class="ring"><div class="frame"></div></div>
+                <div class="ring"><div class="frame"></div></div>
+                <div class="ring"><div class="frame"></div></div>
+                <div class="ring"><div class="frame"></div></div>
+                <div class="ring"><div class="frame"></div></div>
+                <div class="ring"><div class="frame"></div></div>
+                <div class="ring"><div class="frame"></div></div>
+                <div class="ring"><div class="frame"></div></div>
+                <div class="ring"><div class="frame"></div></div>
+                <div class="ring"><div class="frame"></div></div>
+            </div>
+        </div>
+    </div>
+    <!-- Pre-loader end -->
+
+    <section class="login-block">
+        <!-- Container-fluid starts -->
+        <div class="container">
+            <div class="row justify-content-center area-logo">
+                <div class="col-md-4 p-0">
+                    <div class="login-logo">
+                        <div class="login-logo__title">
+                            <h2>Sistema de Boletas</h2>
+                        </div>
+                        <div class="login-logo__img">
+                            <img src="images/computer.png" alt="logo.png" class="img-fluid">
+                        </div>
+                        <div class="login-logo__ugel">
+                            <div class="row align-items-center">
+                                <div class="col-md-4">
+                                    <img src="images/logo_espinar.png" alt="" class="img-fluid">
+                                </div>
+                                <div class="col-md-8">
+                                    <h3>Unidad de Gestión Educativa Local Espinar</h3>
+                                </div>
+                            </div>
+                        </div>
+                        <p>Sistema de Boletas Ugel v.1.0</p>
+                    </div>
+                </div>
+                <div class="col-md-8 p-0" style="background: #fff;" id="registro">
+                    <!-- registration-->                    
+                        <form class="j-pro" @submit.prevent="sendForm">
+                                <div class="card-block">
+                                    <div class="row">
+                                        <div class="col-md-12 m-b-10">
+                                            <h3 class="text-center">Registro de Usuarios</h3>
+                                        </div>
+                                    </div>
+                                    <div class="row m-0 p-0">
+                                        <div class="col-md-6">
+                                            <div>
+                                                <label class="j-label">Nombre Completo</label>
+                                                <div class="j-unit">
+                                                    <div class="j-input">
+                                                        <label class="j-icon-left" for="full_name">
+                                                            <i class="icofont icofont-ui-user"></i>
+                                                        </label>
+                                                        <input 
+                                                        type="text" 
+                                                        name="full_name" 
+                                                        required 
+                                                        @keyup="validateData"
+                                                        pattern="^[A-Za-zÑñÁáÉéÍíÓóÚúÜü\s]+$"
+                                                        title="Nombre Completo"
+                                                        class=""
+                                                        id="full_name"
+                                                        >
+                                                    </div>
+                                                    <transtion name="fade">
+                                                        <span v-show="message.full_name"
+                                                        v-text="message.full_name" class="err-message"></span>
+                                                    </transtion>   
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <div>
+                                                    <label class="j-label">DNI</label>
+                                                </div>
+                                                <div class="j-unit">
+                                                    <div class="j-input">
+                                                        <label class="j-icon-left" for="dni">
+                                                            <i class="icofont icofont-id-card"></i>
+                                                        </label>
+                                                        <input 
+                                                        type="text" 
+                                                        name="dni" 
+                                                        @keyup="validateData"
+                                                        pattern="^[0-9]+$"
+                                                        title="DNI"
+                                                        required
+                                                        class=""
+                                                        maxlength="8"
+                                                        id="dni"
+                                                        >
+                                                    </div>
+                                                    <transtion name="fade">
+                                                        <span v-show="message.dni"
+                                                        v-text="message.dni" class="err-message"></span>
+                                                    </transtion>
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <div>
+                                                    <label class="j-label">Tipo de Usuario</label>
+                                                </div>
+                                                <div class="j-unit">
+                                                    <div class="j-input">
+                                                        <select name="tipo_boleta" required>
+                                                            <option value="">Seleccione tipo de Boleta</option>
+                                                            <option value="Activo">Trabajador Activo</option>
+                                                            <option value="Cesante">Pensionista</option>
+                                                            <option value="Judicial">Judiciales</option>
+                                                            <option value="Dependiente">Dependientes</option>
+                                                            <option value="Cas">CAS</option>
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <div>
+                                                    <label class="j-label">Email</label>
+                                                </div>
+                                                <div class="j-unit">
+                                                    <div class="j-input">
+                                                        <label class="j-icon-left" for="email">
+                                                            <i class="icofont icofont-envelope"></i>
+                                                        </label>
+                                                        <input 
+                                                        type="email" 
+                                                        id="email" 
+                                                        name="email"
+                                                        title="Email"
+                                                        @keyup="validateData"
+                                                        pattern="^[a-z0-9]+(\.[_a-z0-9]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,15})$"
+                                                        class=""
+                                                        required
+                                                        >
+                                                    </div>
+                                                    <transtion name="fade">
+                                                        <span v-show="message.email"
+                                                        v-text="message.email" class="err-message"></span>
+                                                    </transtion>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div>
+                                                <div>
+                                                    <label class="j-label ">N° Celular</label>
+                                                </div>
+                                                <div class="j-unit">
+                                                    <div class="j-input">
+                                                        <label class="j-icon-left" for="celular">
+                                                            <i class="icofont icofont-iphone"></i>
+                                                        </label>
+                                                        <input 
+                                                        type="text" 
+                                                        id="celular" 
+                                                        name="celular"
+                                                        title="N° de Celular"
+                                                        @keyup="validateData"
+                                                        pattern="^[0-9]+$"
+                                                        maxlength="9"
+                                                        required
+                                                        >
+                                                    </div>
+                                                    <transtion name="fade">
+                                                        <span v-show="message.celular"
+                                                        v-text="message.celular" class="err-message"></span>
+                                                    </transtion>
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <div>
+                                                    <label class="j-label ">Usuario <small>(Acceso al sistema)</small></label>
+                                                </div>
+                                                <div class="j-unit">
+                                                    <div class="j-input">
+                                                        <label class="j-icon-left" for="username">
+                                                            <i class="icofont icofont-ui-check"></i>
+                                                        </label>
+                                                        <input 
+                                                        type="text" 
+                                                        id="username" 
+                                                        name="username"
+                                                        title="Usuario"
+                                                        @keyup="validateData"
+                                                        pattern="^[a-z0-9A-Z_\-]+$"
+                                                        required
+                                                        >
+                                                    </div>
+                                                    <transtion name="fade">
+                                                        <span v-show="message.username"
+                                                        v-text="message.username" class="err-message"></span>
+                                                    </transtion>
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <div>
+                                                        <label class="j-label ">Contraseña <small>(Acceso al sistema)</small><span @click="showPassword"><i class="icofont" style="color: #666;transform: scale(2);
+                                                            transform-origin: -184px 21px; display: block;" :class="passwordFieldType ==='password' ? 'icofont-eye': 'icofont-eye-blocked'"></i></span></label>
+                                                        
+                                                </div>
+                                                <div class="j-unit">
+                                                    <div class="j-input">
+                                                        <label class="j-icon-left" for="password">
+                                                            <i class="icofont icofont-lock"></i>
+                                                        </label>
+                                                        <input 
+                                                        :type="passwordFieldType" 
+                                                        id="password" 
+                                                        name="password"
+                                                        title="Contraseña"
+                                                        @keyup="validateData"
+                                                        pattern="^[a-z0-9A-Z_\-]+$"
+                                                        required
+                                                        >
+                                                    </div>
+                                                    <transtion name="fade">
+                                                        <span v-show="message.password"
+                                                        v-text="message.password" class="err-message"></span>
+                                                    </transtion>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="j-footer text-left">
+                                        <div>
+                                            sdssdds
+                                        </div>
+                                        <button type="submit" class="btn btn-primary" v-if="!serverResponse">Registrarse</button>
+                                    </div>
+                                </div>
+                            
+                        </form>
+                        
+                        <!-- end of form -->
+                </div>
+                <!-- end of col-sm-12 -->
+            </div>
+            <!-- end of row -->
+        </div>
+        <!-- end of container-fluid -->
+    </section>
+    <!-- Required Jquery -->
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/popper.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <!-- Vue JS -->
+    <script src="js/vue.js"></script>
+    <script>
+        const mv = new Vue({
+            el: '#registro',
+            data: {
+                formType: true,
+                message: {
+                    full_name: '',
+                    dni: '',
+                    email: '',
+                    celular: '',
+                    username: '',
+                    password: '',                    
+                },
+                passwordFieldType: 'password',
+                serverResponse: false
+            },
+            methods: {
+                validateData(e) {
+                    let input = e.target,
+                    expresion
+                    if(input.pattern) {
+                        let regex = new RegExp(input.pattern)
+                        expresion = !regex.exec(input.value)
+                    } else {
+                        expresion = !input.value
+                    }
+
+                    if(expresion || input.value.trim() == '') {
+                        this.message[input.name] = `Datos Incorrectos, ${input.title}`;         input.classList.add('u-error')
+                    } else {
+                        this.message[input.name] = ''
+                        input.classList.remove('u-error')
+                    }
+                },
+                showPassword(e) {
+                    this.passwordFieldType = this.passwordFieldType === 'password' ? 'text' : 'password'
+                }
+            }
+        });
+    </script>
+    <!-- JS page -->
+    <script type="text/javascript" src="js/common-pages.js"></script>
+    <!-- Custom js -->
+</body>
+
+</html>
